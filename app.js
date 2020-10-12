@@ -28,6 +28,8 @@ function wineData(variety) {
         // sort in descending order and slice x_price
         // var x_labels = ["0-15", "15 - 30"]
         console.log(x_price);
+        var x_priceSlice = x_price.slice(0, 25);
+        console.log(x_priceSlice);
 
         // qe have unique price values, we need to aggrgate the number of wines for ach price
         var y_numWines = [];
@@ -55,7 +57,7 @@ function wineData(variety) {
         // create labels for hover over function
         var labels = data.map(t => t.title)
         console.log(labels)
-        var labelsSlices = labels.slice(0,5);
+        var labelsSlices = labels.slice(0,25);
         console.log(labelsSlices)
 
 
@@ -66,7 +68,7 @@ function wineData(variety) {
 // logarithmic for the sizes scale. Use a logarthimic scale to cut down the size, multiple by a standard number to have the varied sizes
 var trace = {
     // x: priceSlices,
-    x: x_price,
+    x: x_priceSlice.reverse(),
     // do the length of the price
     // y: wineSlices,
     y: y_numWines,
@@ -83,7 +85,7 @@ var trace = {
         // sizeref: 2 * Math.max(x_price)/ (x_price[x_price.length-3] ** 2),
         sizeref: 1000,
         opacity: [0.5],
-        // color: 'red',
+        color: 'red',
         // color: {
         //     if: priceSlices <= 50, return: 'green',
         //     else: priceSlices <= 100, return: 'red'},
@@ -95,12 +97,16 @@ var data = [trace];
 
 // add a conditional here? to change bubble colors
 var layout = {
-    xaxis: {title: "Pricing"},
-    title: "Pricing For Wine Varieties",
+    xaxis: {title: "Wine Prices"},
+    title: "Find The Perfectly Priced Wine In Your Range",
     height: 400,
     width: 800,
     margin: {
-        l: 100
+        l: 100,
+        r: 100,
+        t: 100,
+        b: 100,
+
     }
 
 };
