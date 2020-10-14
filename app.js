@@ -6,6 +6,8 @@
 //         console.log(data);
 //     })
 // }
+
+    
 function wineData(variety) {
     d3.csv("wine_data_updated.csv").then(function(data) {
         console.log(data);
@@ -59,7 +61,7 @@ function wineData(variety) {
         console.log(labels)
         var labelsSlices = labels.slice(0,25);
         console.log(labelsSlices)
-
+    });
 
 // bubble chart
 // where to put the conditional to change the sizing of the bubbles 
