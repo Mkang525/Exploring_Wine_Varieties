@@ -10,7 +10,7 @@ from flask import Flask, jsonify
 import datetime as dt
 from flask import Flask, render_template, redirect
 
-engine = create_engine("sqlite:///wine_db.sqlite")
+engine = create_engine("sqlite:///wine_db_counts.sqlite")
 
 Base = automap_base()
 
@@ -59,33 +59,33 @@ def getWinesForChart():
         winery['province'] = row.province
         winery['variety'] = row.variety
         winery['winery'] = row.winery
-        # winery['count'] = row.count
-        # winery['counts'] = row.counts
+        winery['count'] = row.count
+        winery['counts'] = row.counts
         wines.append(winery)
 
     return jsonify(wines)
 
-@app.route("/api/v1.0/map")
-def getWinesForMap():
+# @app.route("/api/v1.0/map")
+# def getWinesForMap():
 
-    session = Session(engine)
+#     session = Session(engine)
 
-    results = session.query(Wine).all()
-    session.close()
-    wines=[]
-    for row in results:
-        winery = {}
-        winery['id'] = row.id
-        winery['title'] = row.title
-        winery['country'] = row.country
-        winery['points'] = row.points
-        winery['price'] = row.price
-        winery['province'] = row.province
-        winery['variety'] = row.variety
-        winery['winery'] = row.winery
-        wines.append(winery)
+#     results = session.query(Wine).all()
+#     session.close()
+#     wines=[]
+#     for row in results:
+#         winery = {}
+#         winery['id'] = row.id
+#         winery['title'] = row.title
+#         winery['country'] = row.country
+#         winery['points'] = row.points
+#         winery['price'] = row.price
+#         winery['province'] = row.province
+#         winery['variety'] = row.variety
+#         winery['winery'] = row.winery
+#         wines.append(winery)
 
-    return jsonify(wines)
+#     return jsonify(wines)
 
 
 # create the connection
