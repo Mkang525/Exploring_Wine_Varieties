@@ -1,0 +1,78 @@
+
+  
+  /* The styles for the parallax */
+  /* image is from NASA can be found in images */
+  .hero {
+    position: relative;
+    height: 550px;
+    padding: 20px;
+    margin: 0;
+    background: whitesmoke;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/59c95f5790badec881c12af5/1506377193109-R6VSLP8CWBD10E5T4Y8O/ke17ZwdGBToddI8pDm48kFWxnDtCdRm2WA9rXcwtIYR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcTSrQkGwCGRqSxozz07hWZrYGYYH8sg4qn8Lpf9k1pYMHPsat2_S1jaQY3SwdyaXg/_MG_7212.jpg?format=2500w");
+    background-attachment: fixed;
+    background-position: bottom center;
+    background-size: cover;
+  }
+  
+  .hero h1 {
+    margin-top: 200px;
+    font-size: 0.1rem;
+    animation: title 1.2s forwards linear;
+  }
+  
+  .hero p {
+    font-size: 2rem;
+    opacity: 0;
+    animation: subtitle 1.2s forwards linear;
+    animation-delay: 1.2s;
+  }
+
+  .navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    background-color: darkred;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.navbar-brand {
+    float: left;
+    height: 60px;
+    padding: 30px 30px;
+    line-height: 30px;
+    color: whitesmoke;
+    /* border: whitesmoke;
+    border-style: solid; */
+    margin-top: 25px;
+    margin-right: 10px;
+    margin-left: 10px;
+    /* border-radius: 5px; */
+    font-size: 30px;
+    font-weight: bolder;
+    /* border-spacing: 5px; */
+}
+
+.well {
+  margin-right: auto;
+}
+
+.nav-link {
+    color: whitesmoke;
+    font-size: 20px;
+    float: right;
+    height: 60px;
+    padding: 40px 40px;
+    line-height: 20px;
+}
+
+  .jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: darkred;
+    background-color: whitesmoke;
+}
+  
+
