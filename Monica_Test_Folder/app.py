@@ -22,14 +22,20 @@ Wine = Base.classes.wine
 # create instance of Flask
 app = Flask(__name__)
 
-# create a route for the homepage
+# create a route for the homepage, for when it opens in python
 @app.route('/')
 def index():
     """All available API routes."""
     return render_template('home.html')
 
+# for the main navigation link
+@app.route('/home.html')
+def main_nav():
+    """All available API routes."""
+    return render_template('home.html')
+
 # bubble chart/bar chart
-@app.route('/api/v1.0/varieties')
+@app.route('/index.html')
 def varieties():
     """Varieties Route."""
     return render_template('index.html')
