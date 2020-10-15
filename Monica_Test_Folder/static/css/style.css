@@ -74,5 +74,15 @@
     color: darkred;
     background-color: whitesmoke;
 }
+
+.content {
+  font-size: 20px;
+  margin-left: 400px;
+  margin-right: 100px;
+  /* margin-top: 30px; */
+  align-items: center;
+
+
+}
   
 

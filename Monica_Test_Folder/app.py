@@ -26,8 +26,15 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     """All available API routes."""
+    return render_template('home.html')
+
+# bubble chart/bar chart
+@app.route('/api/v1.0/varieties')
+def varieties():
+    """Varieties Route."""
     return render_template('index.html')
 
+# json 
 @app.route("/api/v1.0/wine")
 def getWinesForChart():
     # Create our session (link) from Python to the DB
@@ -46,6 +53,8 @@ def getWinesForChart():
         winery['province'] = row.province
         winery['variety'] = row.variety
         winery['winery'] = row.winery
+        # winery['count'] = row.count
+        # winery['counts'] = row.counts
         wines.append(winery)
 
     return jsonify(wines)
