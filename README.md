@@ -1,4 +1,5 @@
 # Project_2_Visualization
+Exploring Wine Varieties
 Braden, Kang, Limoli, Sodhi
 
 Using a dataset[1] of reviews collected from the Wine Enthusiast[2] website, this website provides users the opportunity to explore more about the world of wine.
