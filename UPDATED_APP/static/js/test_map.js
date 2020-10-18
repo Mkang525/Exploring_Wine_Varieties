@@ -87,15 +87,23 @@ function createMarker(sample) {
             var varPrice= result.map(data => data.price);
             var varPoints= result.map(data => data.points);
                           
-            L.marker([
-                parseFloat(lat[i]), 
-                parseFloat(lng[i]) 
-            ])   //.addTo(myMap)
-              .bindPopup("<h4>" + varTitle[i] + "</h4><hr> <h6> Variety : " + varVariety[i] + "<br>Province: " + varProvince[i] + "<br>Price : " + varPrice[i] + "<br>GWS (Global Wine Score): " + varPoints[i] +"</h6> ").addTo(myMap);
-            };
-});
-}
+            //  L.marker([
+            //     parseFloat(lat[i]), 
+            //     parseFloat(lng[i]) 
+            // ])   //.addTo(myMap)
+            //   .bindPopup("<h4>" + varTitle[i] + "</h4><hr> <h6> Variety : " + varVariety[i] + "<br>Province: " + varProvince[i] + "<br>Price : " + varPrice[i] + "<br>GWS (Global Wine Score): " + varPoints[i] +"</h6> ").addTo(myMap);
+            // };
 
+          var markerLayer = L.marker([
+              parseFloat(lat[i]),
+              parseFloat(lng[i])
+          ]).bindPopup("<h4>" + varTitle[i] + "</h4><hr> <h6> Variety : " + varVariety[i] + "<br>Province: " + varProvince[i] + "<br>Price : " + varPrice[i] + "<br>GWS (Global Wine Score): " + varPoints[i] +"</h6> ")
+
+          markerLayer.addTo(myMap);
+
+};
+});
+};
 
 // Create a function to update map when dropdown selection is made
 
@@ -104,13 +112,8 @@ d3.selectAll("#varietydropdown").on("change", optionChanged);
 function optionChanged() {
     var dropdownMenu = d3.select("#varietydropdown");
     var selectedWine = dropdownMenu.property("value");
-// **
-    createMarker(selectedWine);
- }
-
- function onLocationFound() {
-    var marker = L.marker([e.latlng.lat,e.latlng.lng]).update(marker);
-    alert ('New latitude is ' + e.latlng.lat)
+    // markerLayer.remove();
+    createMarker(selectedWine);   
  }
 
 
