@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Wine Data</title>
+
+   <!-- Leaflet CSS -->
+   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../static/css/style.css">
+
+</head>
+
+<body style="background-color: darkred">
+
+  <nav class="navbar navbar-light bg-light">
+    <a class="navbar-brand" href="index1.html">Wine For All Occassions</a>
+    <nav class="nav">
+      <a class="nav-link" href="map.html">Map</a>
+      <a class="nav-link" href="index.html">Pricing</a>
+      <a class="nav-link" href="#">Information</a>
+    </nav>
+  </nav>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>Wine Dashboard</h1>
+        <p>Use the interactive charts below to explore the dataset! </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="well">
+          <h5>Choose a Variety</h5>
+          <select id="selDataset" onchange="optionChanged(value)"></select>
+        </div>
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Table</h3>
+          </div>
+          <div id="sample-metadata" class="panel-body"></div>
+        </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div id="bubble"></div>
+      </div>
+    </div>
+  </div> 
+
+    <!-- The div that holds our map
+    <div id="map"></div> -->
+
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
+
+    <!-- D3 JavaScript -->
+   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.3/d3.min.js"></script>
+
+
+
+   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+   <!-- Our JavaScript -->
+   <script src="../static/js/app1.js"></script>
+  
+  
+</body>
+
+</html>

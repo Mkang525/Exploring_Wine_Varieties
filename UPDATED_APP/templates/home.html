@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Wine Homepage</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.3/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"> -->
+  <link rel="stylesheet" href="../static/css/style.css">
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+
+<body style="background-color: darkred">
+  <!-- As a link -->
+<nav class="navbar navbar-light bg-light">
+  <a class="navbar-brand" href="home.html">Wine For All Occassions</a>
+  <nav class="nav">
+    <a class="nav-link" href="map.html">Map</a>
+    <a class="nav-link" href="index.html">Varieties</a>
+    <a class="nav-link" href="#">Information</a>
+  </nav>
+</nav>
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+      <div class="hero text-center">
+        <h1 style="color:whitesmoke;">Wine From Around The World</h1>
+        <p>Use the interactive charts below to explore the dataset!</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="well">
+          <h5>Choose a Variety</h5>
+          <select id="selDataset" onchange="optionChanged(value)"></select>
+        </div>
+      </div>
+      </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+   <div class="content">
+      <h1 style="color:whitesmoke;">Wine From Around The World</h1>
+      <p style="color:whitesmoke;">Using a dataset[1] of reviews collected from the Wine Enthusiast[2] website, this website provides you the opportunity to explore more about the world of wine. 
+Select a variety from the 50 most popular wine varietals in the dropdown menu to see more about its quality, pricing, country of origin, and the wineries where the best of its kind are grown. 
+From these, you will discover that quality wines are grown all over the world, not just in France and California, and that they are also more accessible than you might have thought. The average cost of a bottle was just over 33.00 USD while the quality averages over 88 points out of 100. In fact,  a regression model of points on price predicts that every additional point over 80 points costs you approximately 97 cents! To see more about our process visit our GitHub page[3].
+        <br></br>
+        <li>[1] https://www.kaggle.com/zynicide/wine-reviews</li>
+        <li>[2] https://www.winemag.com/</li>
+        <li>[3] https://github.com/Mkang525/Project_2_Visualization.git</li>
+      </p>
+    </div>
+
+   
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <!-- <script src="wine_data_updated.csv"></script> -->
+  <!-- <script src="./static/js/app1.js"></script> -->
+  <!-- <script src="../static/js/app1.js"></script> -->
+  <script src="../static/js/dropdown.js"></script>
+  
+  
+</body>
+
+</html>
