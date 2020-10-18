@@ -21,11 +21,15 @@ import datetime as dt
 from flask import Flask, render_template, redirect
 from config import db_password, db_username
 
+from sqlalchemy import inspect
+
+
 
 #################################################
 # Database Setup
 #################################################
-db_uri = f'postgresql://{db_username}:{db_password}@localhost:5432/topten_db'
+# db_uri = f'postgresql://{db_username}:{db_password}@localhost:5432/topten_db'
+db_uri = f'postgresql://{db_username}:{db_password}@localhost:5433/wine_db_counts'
 # try:
 #     from .config import db_username
 #     from .config import db_password
@@ -38,6 +42,7 @@ db_uri = f'postgresql://{db_username}:{db_password}@localhost:5432/topten_db'
 # print(final_db_uri)
 
 engine = create_engine(db_uri)
+print(engine)
 
 # reflect an existing database into a new model
 Base = automap_base()
@@ -45,8 +50,12 @@ Base = automap_base()
 # reflect the tables
 Base.prepare(engine, reflect=True)
 
+inspector = inspect(engine)
+for table_name in inspector.get_table_names():
+    print(table_name)
+
 # Save references to each table
-Topten = Base.classes.topten
+# Topten = Base.classes.topten
 Winecounts= Base.classes.winecounts
 # Winedesc = Base.classes.wine
 

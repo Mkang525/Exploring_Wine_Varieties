@@ -1,0 +1,501 @@
+id,title,country,points,price,province,variety,winery,Lat,Lng
+9981,Williams Selyem 2010 Hirsch Vineyard Pinot Noir (Sonoma Coast),US,99,75.00,California,Pinot Noir,Williams Selyem,38.5204049,-122.8667194
+1229,Louis Jadot 2005 Clos de la Roche,France,98,138.00,Burgundy,Pinot Noir,Louis Jadot,37.9847984,-122.3131666
+1731,Clos de Tart 2005 Clos de Tart,France,98,319.00,Burgundy,Pinot Noir,Clos de Tart,47.1956472,4.9616976
+4094,Goldeneye 2007 Ten Degrees Pinot Noir (Anderson Valley),US,98,100.00,California,Pinot Noir,Goldeneye,37.864174,-122.3134576
+10072,Williams Selyem 2010 Precious Mountain Vineyard Pinot Noir (Sonoma Coast),US,98,94.00,California,Pinot Noir,Williams Selyem,38.5204049,-122.8667194
+16987,Williams Selyem 2013 Westside Road Neighbors Pinot Noir (Russian River Valley),US,98,69.00,California,Pinot Noir,Williams Selyem,38.5204049,-122.8667194
+18574,Louis Jadot 2013 Chapelle-Chambertin,France,97,288.00,Burgundy,Pinot Noir,Louis Jadot,37.9847984,-122.3131666
+3405,Lynmar 2007 Hawk Hill Vineyard Pinot Noir (Russian River Valley),US,97,70.00,California,Pinot Noir,Lynmar,38.4421027,-122.8445728
+15749,Wayfarer 2012 The Traveler Pinot Noir (Fort Ross-Seaview),US,97,150.00,California,Pinot Noir,Wayfarer,37.9808138,-122.3266677
+14796,Joseph Drouhin 2012 Grands-Echezeaux,France,97,639.00,Burgundy,Pinot Noir,Joseph Drouhin,45.2655399,-123.0556336
+22035,Wayfarer 2014 Wayfarer Vineyard Chardonnay (Fort Ross-Seaview),US,98,80.00,California,Chardonnay,Wayfarer,37.9808138,-122.3266677
+19313,Louis Jadot Batard-Montrachet Grand Cru 2014 from Puligny-Montrachet,France,98,367.00,Burgundy,Chardonnay,Louis Jadot,37.9847984,-122.3131666
+17511,Domaine Jean-Paul et Benoit Droin 2013 Les Clos Grand Cru (Chablis),France,97,69.00,Burgundy,Chardonnay,Domaine Jean-Paul et Benoit Droin,47.8163223,3.8026625
+16215,Louis Jadot 2013 Les Demoiselles (Chevalier-Montrachet),France,97,476.00,Burgundy,Chardonnay,Louis Jadot,37.9847984,-122.3131666
+5469,Domaine Leflaive 2008 Bienvenues Bâtard-Montrachet,France,97,410.00,Burgundy,Chardonnay,Domaine Leflaive,37.934976,-122.058121
+19182,Louis Jadot 2014 Corton-Charlemagne,France,97,184.00,Burgundy,Chardonnay,Louis Jadot,37.9847984,-122.3131666
+2522,Domaine Leflaive 2006 Bâtard-Montrachet,France,97,451.00,Burgundy,Chardonnay,Domaine Leflaive,37.934976,-122.058121
+18062,Domaine Christian Moreau Père et Fils 2013 Les Clos Grand Cru Cuvée Clos des Hospices (Chablis),France,96,142.00,Burgundy,Chardonnay,Domaine Christian Moreau Père et Fils,47.8159241,3.8047754
+13626,Ramey 2012 Hyde Vineyard Chardonnay (Carneros),US,96,65.00,California,Chardonnay,Ramey,38.6035765,-122.8625648
+22909,Louis Latour 2015 Bâtard-Montrachet,France,96,400.00,Burgundy,Chardonnay,Louis Latour,38.0173823,-122.5393571
+2431,Cardinale 2006 Cabernet Sauvignon (Napa Valley),US,100,200.00,California,Cabernet Sauvignon,Cardinale,38.4308544,-122.3884286
+5836,Venge 2008 Family Reserve Cabernet Sauvignon (Oakville),US,99,125.00,California,Cabernet Sauvignon,Venge,38.579574,-122.553434
+15707,Alpha Omega 2012 Stagecoach Vineyard Cabernet Sauvignon (Atlas Peak),US,99,250.00,California,Cabernet Sauvignon,Alpha Omega,38.4705541,-122.4289289
+2248,Quilceda Creek 2006 Cabernet Sauvignon (Columbia Valley (WA)),US,98,125.00,Washington,Cabernet Sauvignon,Quilceda Creek,47.9486161,-122.0787733
+7219,Von Strasser 2009 Estate Vineyard Cabernet Sauvignon (Diamond Mountain District),US,98,70.00,California,Cabernet Sauvignon,Von Strasser,38.58773,-122.5749189
+3498,Stonestreet 2007 Black Cougar Ridge Cabernet Sauvignon (Alexander Valley),US,97,75.00,California,Cabernet Sauvignon,Stonestreet,38.6624821,-122.8173529
+6166,Yao Ming 2009 Family Reserve Cabernet Sauvignon (Napa Valley),US,97,625.00,California,Cabernet Sauvignon,Yao Ming,45.5980213,-127.2696389
+14544,Alpha Omega 2012 Beckstoffer Georges III Cabernet Sauvignon (Rutherford),US,97,250.00,California,Cabernet Sauvignon,Alpha Omega,38.4705541,-122.4289289
+6852,Gandona 2009 Cabernet Sauvignon (Napa Valley),US,97,190.00,California,Cabernet Sauvignon,Gandona,38.4829249,-122.3556052
+2260,Hestan 2006 Cabernet Sauvignon (Napa Valley),US,97,100.00,California,Cabernet Sauvignon,Hestan,38.4030836,-122.3626693
+4744,Marchesi Antinori 2008 Guado al Tasso (Bolgheri Superiore),Italy,98,102.00,Tuscany,Red Blend,Marchesi Antinori,43.6153804,11.1919579
+880,Tenuta San Guido 2004 Sassicaia (Bolgheri Sassicaia),Italy,97,190.00,Tuscany,Red Blend,Tenuta San Guido,37.9847984,-122.3131666
+9297,Tenuta San Guido 2010 Sassicaia (Bolgheri Sassicaia),Italy,97,227.00,Tuscany,Red Blend,Tenuta San Guido,37.9847984,-122.3131666
+22528,ONX 2015 Reckoning Red (Templeton Gap District),US,96,58.00,California,Red Blend,ONX,35.5762116,-120.6886041
+1909,La Rioja Alta 2005 Gran Reserva 904 (Rioja),Spain,96,50.00,Northern Spain,Red Blend,La Rioja Alta,37.934976,-122.058121
+1287,Betz Family 2005 Le Parrain Red Wine Red (Columbia Valley (WA)),US,96,85.00,Washington,Red Blend,Betz Family,38.3332752,-121.9490236
+1026,La Rioja Alta 2004 Gran Reserva 890 (Rioja),Spain,96,125.00,Northern Spain,Red Blend,La Rioja Alta,37.934976,-122.058121
+3924,Andrew Will 2007 Sorella Red Wine Red (Red Mountain),US,96,64.00,Washington,Red Blend,Andrew Will,47.4501554,-122.4968768
+4,Gérard Bertrand 1945 Legend Vintage Red (Rivesaltes),France,95,350.00,Languedoc-Roussillon,Red Blend,Gérard Bertrand,43.6508979,2.1459687
+5341,Monteverro 2008 Red (Toscana),Italy,95,175.00,Tuscany,Red Blend,Monteverro,42.429221,11.418378
+10344,Château Cheval Blanc 2010 Saint-Émilion,France,100,1500.00,Bordeaux,Bordeaux-style Red Blend,Château Cheval Blanc,44.9195013,-0.1896825
+7265,Château Pontet-Canet 2009 Barrel sample (Pauillac),France,99,,Bordeaux,Bordeaux-style Red Blend,Château Pontet-Canet,45.2088651,-0.771358
+5090,Pirouette 2008 Red Wine Red (Columbia Valley (WA)),US,98,50.00,Washington,Bordeaux-style Red Blend,Pirouette,29.1158254,-110.987534
+10962,Château Latour 2011 Pauillac,France,97,660.00,Bordeaux,Bordeaux-style Red Blend,Château Latour,45.1769372,-0.7505268
+3821,Continuum 2007 Red (Napa Valley),US,97,140.00,California,Bordeaux-style Red Blend,Continuum,38.467257,-122.328257
+7657,Ovid 2009 Red (Napa Valley),US,97,195.00,California,Bordeaux-style Red Blend,Ovid,38.461053,-122.343615
+9081,Vieux Château Certan 2010 Saint-Émilion,France,97,,Bordeaux,Bordeaux-style Red Blend,Vieux Château Certan,44.9269249,-0.1999426
+19751,Château Figeac 2014 Saint-Émilion,France,97,90.00,Bordeaux,Bordeaux-style Red Blend,Château Figeac,44.9128357,-0.1945939
+4973,Verité 2008 Le Desir Red (Sonoma County),US,97,450.00,California,Bordeaux-style Red Blend,Verité,38.6141926,-122.76923
+20542,Château Ausone 2014 Saint-Émilion,France,97,530.00,Bordeaux,Bordeaux-style Red Blend,Château Ausone,44.8888223,-0.1590828
+21242,Domaine Vacheron 2014 L'Enclos des Remparts Sauvignon Blanc (Vin de France),France,96,,France Other,Sauvignon Blanc,Domaine Vacheron,38.2568713,-122.4372592
+5400,Chalk Hill 2008 Musque Sauvignon Blanc (Chalk Hill),US,95,40.00,California,Sauvignon Blanc,Chalk Hill,38.6037982,-122.7772125
+15763,Henri Bourgeois 2012 Jadis (Sancerre),France,95,55.00,Loire Valley,Sauvignon Blanc,Henri Bourgeois,47.3314296,2.8378952
+23342,Daniel Chotard 2015 Les Cris (Sancerre),France,94,39.00,Loire Valley,Sauvignon Blanc,Daniel Chotard,47.307876,2.7648804
+24081,Galerie 2015 Equitem Sauvignon Blanc (Knights Valley),US,94,30.00,California,Sauvignon Blanc,Galerie,37.8554179,-122.4789015
+21579,Henri Bourgeois 2014 Etienne Henri (Sancerre),France,94,65.00,Loire Valley,Sauvignon Blanc,Henri Bourgeois,47.3314296,2.8378952
+5412,Henri Bourgeois 2008 Le M.D. de Bourgeois (Sancerre),France,94,36.00,Loire Valley,Sauvignon Blanc,Henri Bourgeois,47.3314296,2.8378952
+16442,Neumeister 2013 Moarfeitl Sauvignon Blanc (Südoststeiermark),Austria,94,60.00,SÃ¼doststeiermark,Sauvignon Blanc,Neumeister,34.1526642,-118.3428161
+21096,Michel Vattan 2014 Les L-O (Sancerre),France,94,35.00,Loire Valley,Sauvignon Blanc,Michel Vattan,47.359949,2.795967
+23124,Daniel Chotard 2015 Les Cris (Sancerre),France,94,39.00,Loire Valley,Sauvignon Blanc,Daniel Chotard,47.307876,2.7648804
+22902,Robert Weil 2015 Kiedrich Grafenberg Trockenbeerenauslese Riesling (Rheingau),Germany,98,775.00,Rheingau,Riesling,Robert Weil,50.04105,8.08603
+19749,Trimbach 2014 Schlossberg Grand Cru Riesling (Alsace),France,97,100.00,Alsace,Riesling,Trimbach,49.7949711,9.932063
+23962,Domaine Ostertag 2015 Muenchberg Grand Cru Riesling (Alsace),France,97,66.00,Alsace,Riesling,Domaine Ostertag,48.362586,7.452469
+16574,Bründlmayer 2013 Heiligenstein Reserve Lyra Riesling (Kamptal),Austria,96,35.00,Kamptal,Riesling,Bründlmayer,48.4737262,15.6675445
+7427,Domdechant Werner 2009 Hochheimer Domdechaney Beerenauslese Riesling (Rheingau),Germany,96,271.00,Rheingau,Riesling,Domdechant Werner,37.9069612,-122.0628482
+4126,Trimbach 2007 Clos Ste Hune Riesling (Alsace),France,96,,Alsace,Riesling,Trimbach,49.7949711,9.932063
+9682,Robert Weil 2010 Kiedrich Grafenberg Trockenbeerenauslese Riesling (Rheingau),Germany,96,672.00,Rheingau,Riesling,Robert Weil,50.04105,8.08603
+10500,Thorle 2011 Saulheimer Holle Trockenbeerenauslese Riesling (Rheinhessen),Germany,96,150.00,Rheinhessen,Riesling,Thörle,49.8824237,8.1365561
+12910,Domaine Weinbach 2011 Schlossberg Grand Cru Riesling (Alsace),France,96,37.00,Alsace,Riesling,Domaine Weinbach,48.1362394,7.273184
+6180,Maximin Grünhäuser 2009 Herrenberg Eiswein Riesling (Mosel),Germany,96,228.00,Mosel,Riesling,Maximin Grünhäuser,49.7696412,6.7147163
+6379,Cayuse 2009 En Chamberlin Vineyard Syrah (Walla Walla Valley (OR)),US,99,75.00,Oregon,Syrah,Cayuse,45.5161782,-122.6749798
+8812,Charles Smith 2010 Royal City Syrah (Washington),US,97,140.00,Washington,Syrah,Charles Smith,37.7630895,-122.4578144
+9792,Cayuse 2010 Armada Vineyard Syrah (Walla Walla Valley (WA)),US,97,90.00,Washington,Syrah,Cayuse,45.5161782,-122.6749798
+4625,Donelan 2008 Richards Family Vineyard Syrah (Sonoma Valley),US,97,90.00,California,Syrah,Donelan,38.4718027,-122.7435125
+21175,Stolo 2014 Estate Syrah (San Luis Obispo County),US,96,40.00,California,Syrah,Stolo,35.5727867,-121.0529738
+13726,Horsepower 2012 The Tribe Vineyard Syrah (Walla Walla Valley (WA)),US,96,115.00,Washington,Syrah,Horsepower,38.243832,-122.060077
+16527,Trinity Hill 2013 Homage Syrah (Hawke's Bay),New Zealand,95,100.00,Hawke's Bay,Syrah,Trinity Hill,37.9009943,-122.0665925
+1325,Novy 2005 Syrah (Santa Lucia Highlands),US,95,27.00,California,Syrah,Novy,37.7515582,-122.4321395
+8541,Les Vins de Vienne 2010 Les Chirats de Saint-Christophe (Hermitage),France,95,120.00,RhÃ´ne  Valley,Syrah,Les Vins de Vienne,45.4320509,4.7527245
+18805,K Vintners 2013 The Hidden Northridge Vineyard Syrah (Wahluke Slope),US,95,70.00,Washington,Syrah,K Vintners,46.0854763,-118.2503954
+5416,Schramsberg 2008 J. Schram Rose (North Coast),US,96,150.00,California,Rose,Schramsberg,38.5494815,-122.5378838
+24399,Château Vignelaure 2016 Rose (Coteaux d'Aix-en-Provence),France,94,20.00,Provence,Rose,Château Vignelaure,43.6125292,5.6883133
+20023,Château Coussin 2014 Cuvée Cà©sar ÃƒÆ’Ã‚Â  Sumeire Rose (Côtes de Provence Sainte-Victoire),France,93,60.00,Provence,Rose,Château Coussin,43.4765754,5.6748157
+22916,Château Saint-Maur 2015 Clos de Capelune Rose (Côtes de Provence),France,93,65.00,Provence,Rose,Château Saint-Maur,43.2611049,6.5161414
+22497,Château Minuty 2015 Rose et Or Rose (Côtes de Provence),France,93,40.00,Provence,Rose,Château Minuty,43.2429419,6.5931912
+11171,Château d'Esclans 2011 Garrus Rose (Côtes de Provence),France,93,90.00,Provence,Rose,Château d'Esclans,43.5292817,6.5592362
+23035,Château Grand Boise 2015 Cuvée Jadis Rose (Côtes de Provence),France,93,30.00,Provence,Rose,Château Grand Boise,43.43339,5.71494
+24857,Château la Genestière 2016 Tavel,France,92,22.00,RhÃ´ne  Valley,Rose,Château la Genestière,44.0097554,4.701333
+24244,Domaine de la Bégude 2015 L'Irréductible Rose (Bandol),France,92,40.00,Provence,Rose,Domaine de La Bégude,43.2411582,5.7018507
+11475,Château Vignelaure 2011 Rose (Coteaux d'Aix-en-Provence),France,92,21.00,Provence,Rose,Château Vignelaure,43.6125292,5.6883133
+14036,Feudi di San Gregorio 2012 Patrimo Merlot (Campania),Italy,96,105.00,Southern Italy,Merlot,Feudi di San Gregorio,40.9111904,14.8675003
+8954,Leonetti Cellar 2010 Merlot (Walla Walla Valley (WA)),US,95,70.00,Washington,Merlot,Leonetti Cellar,46.056399,-118.296123
+1179,Duckhorn 2004 Estate Grown Merlot (Napa Valley),US,95,85.00,California,Merlot,Duckhorn,38.5294533,-122.4908152
+1866,Tua Rita 2005 Redigaffi Merlot (Toscana),Italy,95,275.00,Tuscany,Merlot,Tua Rita,43.0641347,10.6869721
+3292,Woodward Canyon 2007 Merlot (Columbia Valley (WA)),US,95,39.00,Washington,Merlot,Woodward Canyon,46.0567213,-118.5827991
+13560,Netzl 2012 Barnreiser Merlot (Carnuntum),Austria,94,44.00,Carnuntum,Merlot,Netzl,48.0616111,16.7371721
+2562,Northstar 2006 Merlot (Walla Walla Valley (WA)),US,94,50.00,Washington,Merlot,Northstar,38.093719,-122.248386
+1630,Duckhorn 2005 Three Palms Vineyard Merlot (Napa Valley),US,94,85.00,California,Merlot,Duckhorn,38.5294533,-122.4908152
+19820,Duckhorn 2014 Merlot (Atlas Peak),US,93,75.00,California,Merlot,Duckhorn,38.5294533,-122.4908152
+4231,Ehlers Estate 2007 Merlot (St. Helena),US,93,45.00,California,Merlot,Ehlers Estate,38.5318828,-122.4981484
+2086,Bodega Catena Zapata 2006 Nicasia Vineyard Malbec (Mendoza),Argentina,97,120.00,Mendoza Province,Malbec,Bodega Catena Zapata,-33.167836,-68.9045317
+8576,Colomé 2010 Reserva Malbec (Salta),Argentina,95,90.00,Other,Malbec,Colomé,-24.7877677,-65.4031825
+12072,Château du Cèdre 2011 GC Malbec (Cahors),France,95,165.00,Southwest France,Malbec,Château du Cèdre,44.4852185,1.1059299
+9756,Viña Cobos 2010 Cobos Marchiori Vineyard Malbec (Mendoza),Argentina,95,225.00,Mendoza Province,Malbec,Viña Cobos,-33.0972804,-68.9266435
+15243,Alta Vista 2012 Single Vineyard Temis Malbec (Valle de Uco),Argentina,95,48.00,Mendoza Province,Malbec,Alta Vista,37.9837892,-122.3200446
+18615,Devil Proof 2013 Farrow Ranch Malbec (Alexander Valley),US,95,125.00,California,Malbec,Devil Proof,38.5834056,-122.8464463
+18056,Alta Vista 2013 Single Vineyard Serenade Malbec (Mendoza),Argentina,94,48.00,Mendoza Province,Malbec,Alta Vista,37.9837892,-122.3200446
+17920,Charles Smith 2013 Broncho Stoneridge Vineyard Malbec (Washington),US,94,70.00,Washington,Malbec,Charles Smith,37.7630895,-122.4578144
+13621,Viña Cobos 2012 Bramare Marchiori Vineyard Malbec (Luján de Cuyo),Argentina,94,90.00,Mendoza Province,Malbec,Viña Cobos,-33.0972804,-68.9266435
+2089,Jean-Luc Baldès 2006 Clos Triguedina The New Black Wine Malbec (Cahors),France,94,,Southwest France,Malbec,Jean-Luc Baldès,44.4918734,1.1092756
+3497,Gaja 2007 Sorì San Lorenzo Nebbiolo (Langhe),Italy,99,440.00,Piedmont,Nebbiolo,Gaja,33.7405527,-84.3463225
+5875,Mascarello Giuseppe e Figlio 2008 Cà  d'Morissio Riserva (Barolo),Italy,99,595.00,Piedmont,Nebbiolo,Mascarello Giuseppe e Figlio,44.5717512,7.91744
+18123,Brezza 2013 Cannubi (Barolo),Italy,98,60.00,Piedmont,Nebbiolo,Brezza,34.4096982,-119.7017516
+16367,Brovia 2013 Garblèt Suè  (Barolo),Italy,98,83.00,Piedmont,Nebbiolo,Brovia,44.6317427,7.9657434
+18068,Brovia 2013 Brea Vigna Cà  Mia (Barolo),Italy,97,96.00,Piedmont,Nebbiolo,Brovia,44.6317427,7.9657434
+10001,Mascarello Giuseppe e Figlio 2010 Villero (Barolo),Italy,97,100.00,Piedmont,Nebbiolo,Mascarello Giuseppe e Figlio,44.5717512,7.91744
+18410,Elvio Cogno 2013 Ravera (Barolo),Italy,97,82.00,Piedmont,Nebbiolo,Elvio Cogno,44.594701,7.9381747
+18030,Giacomo Fenocchio 2013 Bussia (Barolo),Italy,97,55.00,Piedmont,Nebbiolo,Giacomo Fenocchio,44.6114057,7.9598511
+8432,Rivetto 2010 Briccolina Riserva (Barolo),Italy,96,210.00,Piedmont,Nebbiolo,Rivetto,44.6064182,8.0093979
+4961,Luigi Oddero & Figli 2008 Vigna Rionda (Barolo),Italy,96,131.00,Piedmont,Nebbiolo,Luigi Oddero & Figli,44.6583803,7.9517523
+2299,Il Paradiso di Manfredi 2006 Riserva (Brunello di Montalcino),Italy,97,152.00,Tuscany,Sangiovese,Il Paradiso di Manfredi,43.0638926,11.4967361
+9688,Felsina 2010 Fontalloro Sangiovese (Toscana),Italy,95,62.00,Tuscany,Sangiovese,Felsina,-25.4860031,-57.4617429
+4694,Michele Satta 2008 Cavaliere Sangiovese (Toscana),Italy,95,75.00,Tuscany,Sangiovese,Michele Satta,43.1599313,10.6011888
+14423,Armilla 2012 Brunello di Montalcino,Italy,95,63.00,Tuscany,Sangiovese,Armilla,37.1512306,-3.6167146
+9419,Ormanni 2010 Etichetta Storica Gran Selezione (Chianti Classico),Italy,95,45.00,Tuscany,Sangiovese,Ormanni,43.477626,11.202685
+2131,Col d'Orcia 2006 Poggio al Vento Riserva (Brunello di Montalcino),Italy,95,150.00,Tuscany,Sangiovese,Col d'Orcia,42.967171,11.437808
+12043,Gianni Brunelli 2011 Brunello di Montalcino,Italy,95,56.00,Tuscany,Sangiovese,Gianni Brunelli,43.0278979,11.5178124
+8174,Mocali 2010 Riserva (Brunello di Montalcino),Italy,95,85.00,Tuscany,Sangiovese,Mocali,43.035343,11.449049
+11627,Cerbaiona 2011 Brunello di Montalcino,Italy,95,,Tuscany,Sangiovese,Cerbaiona,43.0419448,11.5255422
+11972,Livio Sassetti 2011 Pertimali (Brunello di Montalcino),Italy,94,55.00,Tuscany,Sangiovese,Livio Sassetti,43.0638488,11.4745281
+7700,Seghesio 2009 Old Vine Zinfandel (Dry Creek Valley),US,94,38.00,California,Zinfandel,Seghesio,38.6179675,-122.874984
+17427,Pulchella 2013 Mercenary Reserve 25 Zinfandel (Monterey),US,94,50.00,California,Zinfandel,Pulchella,34.3781141,-118.527592
+15250,Williams Selyem 2012 Bacigalupi Vineyard Zinfandel (Russian River Valley),US,94,55.00,California,Zinfandel,Williams Selyem,38.5204049,-122.8667194
+21559,Robert Biale 2014 Aldo's Vineyard Estate Grown Zinfandel (Oak Knoll District),US,94,78.00,California,Zinfandel,Robert Biale,38.3491752,-122.303323
+7868,St. Francis 2009 Pagani Vineyard Zinfandel (Sonoma Valley),US,93,45.00,California,Zinfandel,St. Francis,37.9416909,-122.0272357
+22734,Robert Biale 2015 Black Chicken Zinfandel (Napa Valley),US,93,48.00,California,Zinfandel,Robert Biale,38.3491752,-122.303323
+12097,Newsome-Harlow 2011 The Donner Party The Dalton Ranch Zinfandel (Calaveras County),US,93,36.00,California,Zinfandel,Newsome-Harlow,38.1374103,-120.4639585
+21937,Three 2014 Bigelow Zinfandel (Contra Costa County),US,93,34.00,California,Zinfandel,Three,38.1182098,-122.2539138
+21391,Scott Harvey 2014 Vineyard 1869 Zinfandel (Amador County),US,93,48.00,California,Zinfandel,Scott Harvey,38.5184676,-120.8222519
+1624,Edizione Pennino 2005 Zinfandel (Rutherford),US,93,40.00,California,Zinfandel,Edizione Pennino,38.457314,-122.4326658
+15098,Mouchão 2012 Red (Alentejo),Portugal,97,75.00,Alentejo,Portuguese Red,Herdade do Mouchão,38.9217077,-7.811134
+19282, Quinta do Vale Meão 2014 Red (Douro),Portugal,95,100.00,Douro,Portuguese Red, Quinta do Vale Meão,41.153766,-7.1226357
+21240,Quinta do Noval 2014 Red (Douro),Portugal,95,87.00,Douro,Portuguese Red,Quinta do Noval,37.934976,-122.058121
+13897,Quinta dos Murças 2012 Reserva Red (Douro),Portugal,95,100.00,Douro,Portuguese Red,Quinta dos Murças,41.1530081,-7.6903201
+3145,Mouchão 2007 Red (Alentejano),Portugal,95,36.00,Alentejano,Portuguese Red,Herdade do Mouchão,38.9217077,-7.811134
+14530,Quinta Vale Dona Maria 2012 Vinha do Rio Red (Douro),Portugal,95,150.00,Douro,Portuguese Red,Quinta Vale Dona Maria,41.1638705,-7.5115632
+18618,Quinta Vale Dona Maria 2013 VVV Valleys Red (Douro),Portugal,95,34.00,Douro,Portuguese Red,Quinta Vale Dona Maria,41.1638705,-7.5115632
+7004,Wine & Soul 2009 Pintas Character Red (Douro),Portugal,95,40.00,Douro,Portuguese Red,Wine & Soul,37.8065126,-122.2701076
+23498,José Maria da Fonseca 2015 José de Sousa Red (Alentejano),Portugal,94,20.00,Alentejano,Portuguese Red,José Maria da Fonseca,38.5181278,-9.0154333
+5449,Vinha Paz 2008 Reserva Red (Dão),Portugal,94,35.00,DÃ£o,Portuguese Red,Vinha Paz,40.5953625,-7.9320801
+97,Principe Corsini Fattoria Le Corti 1997 Sant'Andrea Corsini (Vin Santo del Chianti Classico),Italy,97,,Tuscany,White Blend,Principe Corsini Fattoria Le Corti,43.6498407,11.1956344
+882,Volpaia 2004 Vin Santo del Chianti Classico,Italy,94,44.00,Tuscany,White Blend,Volpaia,43.516636,11.380914
+22,Fattoria di Grignano 1994 Riserva (Vin Santo del Chianti Rufina),Italy,93,140.00,Tuscany,White Blend,Fattoria di Grignano,43.8063367,11.4591867
+18398,Carlisle 2013 Compagni Portis White (Sonoma Valley),US,93,34.00,California,White Blend,Carlisle,40.2010241,-77.2002745
+14955,Kracher 2012 Beerenauslese Cuvée White (Burgenland),Austria,93,17.00,Burgenland,White Blend,Kracher,47.81248,16.23167
+5477,Volpaia 2008 Vin Santo del Chianti Classico,Italy,93,49.00,Tuscany,White Blend,Volpaia,43.516636,11.380914
+730,Castello di Bossi 2003 Vin San Laurentino White (Toscana),Italy,93,95.00,Tuscany,White Blend,Castello di Bossi,43.3714682,11.4498566
+8091,Kracher 2010 Beerenauslese Cuvée White (Burgenland),Austria,93,,Burgenland,White Blend,Kracher,47.81248,16.23167
+24182,Barden 2015 Fonte White (Sta. Rita Hills),US,93,36.00,California,White Blend,Barden,38.5814938,-121.2805171
+6369,Emilio Rojo 2009 Blanco White (Ribeiro),Spain,93,53.00,Galicia,White Blend,Emilio Rojo,42.3695975,-8.1261618
+1286,Bodegas Roda 2005 Cirsion (Rioja),Spain,96,303.00,Northern Spain,Tempranillo,Bodegas Roda,42.585101,-2.8469189
+11381,Emilio Moro 2011 Malleolus de Valderramiro (Ribera del Duero),Spain,95,150.00,Northern Spain,Tempranillo,Emilio Moro,41.6430702,-4.1509557
+13821,No Girls 2012 La Paciencia Vineyard Tempranillo (Walla Walla Valley (WA)),US,95,75.00,Washington,Tempranillo,No Girls,46.036405,-118.781325
+24344,Sheldon 2016 Springloaded Monkey Paw Luc's Vineyard Tempranillo (Sonoma County),US,94,41.00,California,Tempranillo,Sheldon,37.9670371,-122.297508
+11624,Emilio Moro 2011 Malleolus de Sanchomartin (Ribera del Duero),Spain,94,179.00,Northern Spain,Tempranillo,Emilio Moro,41.6430702,-4.1509557
+14823,Artadi 2012 Viña el Pison (Rioja),Spain,94,300.00,Northern Spain,Tempranillo,Artadi,37.418101,-121.8724048
+15001,Garcia Figuero 2012 Vinas Viejas (Ribera del Duero),Spain,93,69.00,Northern Spain,Tempranillo,Garcia Figuero,41.7422868,-3.8782428
+2628,San Vicente 2006 Rioja,Spain,93,62.00,Northern Spain,Tempranillo,San Vicente,37.7216464,-122.1694939
+15998,Bodegas Fuentespina 2012 F (Ribera del Duero),Spain,93,85.00,Northern Spain,Tempranillo,Bodegas Fuentespina,41.6381808,-3.6901352
+12468,Launa 2011 Ikunus (Rioja),Spain,93,40.00,Northern Spain,Tempranillo,Launa,37.275227,-121.934445
+18631,Law 2013 Sagacious Red (Paso Robles),US,95,70.00,California,Rhone-style Red Blend,Law,38.1039332,-122.2547692
+16496,Herman Story 2013 Casual Encounters Red (California),US,95,48.00,California,Rhone-style Red Blend,Herman Story,35.62736,-120.685878
+16021,Clos Solène 2013 Harmonie Red (Paso Robles),US,95,85.00,California,Rhone-style Red Blend,Clos SolÃƒÆ’Ã‚Â¨ne,35.5866164,-120.7704145
+20741,Nicora 2014 Law Vineyard Red (Adelaida District),US,94,55.00,California,Rhone-style Red Blend,Nicora,35.576625,-120.689007
+18878,Epoch Estate Wines 2013 Ingenuity Red (Paso Robles),US,94,70.00,California,Rhone-style Red Blend,Epoch Estate Wines,35.5439913,-120.826751
+12525,II Moons 2011 Ardor Red (Paso Robles),US,94,40.00,California,Rhone-style Red Blend,II Moons,35.5817305,-120.6981909
+8083,Domaine de la Mordorée 2010 La Reine des Bois Red (Châteauneuf-du-Pape),France,94,141.00,RhÃ´ne  Valley,Rhone-style Red Blend,Domaine de la Mordorée,44.0115708,4.7037033
+13525,Peter Franus 2012 Red (Red Hills Lake County),US,94,35.00,California,Rhone-style Red Blend,Peter Franus,38.3793566,-122.4477575
+14808,Donelan 2012 Cuvée Moriah Red (Sonoma County),US,94,50.00,California,Rhone-style Red Blend,Donelan,38.4718027,-122.7435125
+6556,Gramercy 2009 L'idiot du Village Red (Columbia Valley (WA)),US,93,42.00,Washington,Rhone-style Red Blend,Gramercy,40.7367783,-73.9844722
+7535,Domaine Zind-Humbrecht 2009 Turckheim Clos Jebsal Vendanges Tardive Pinot Gris (Alsace),France,95,,Alsace,Pinot Gris,Domaine Zind-Humbrecht,48.0838286,7.295687
+7801,Domaine Zind-Humbrecht 2009 Clos Saint Urbain Rangen de Thann Grand Cru Pinot Gris (Alsace),France,95,74.00,Alsace,Pinot Gris,Domaine Zind-Humbrecht,48.0838286,7.295687
+1572,Domaine Schoffit 2005 Rangen Grand Cru Clos Saint Théobald Sélection de Grains Nobles Larme de Lave Pinot Gris (Alsace),France,95,90.00,Alsace,Pinot Gris,Domaine Schoffit,48.0656159,7.3743246
+13419,The Eyrie Vineyards 2012 Original Vines Pinot Gris (Dundee Hills),US,94,33.00,Oregon,Pinot Gris,The Eyrie Vineyards,45.214049,-123.1878305
+13155,Domaine Michel Fonne 2012 Marckrain Grand Cru Pinot Gris (Alsace),France,94,26.00,Alsace,Pinot Gris,Domaine Michel Fonne,48.1439235,7.3277837
+18204,Wohlmuth 2013 Gola Privat Pinot Gris (Südsteiermark),Austria,94,40.00,SÃ¼dsteiermark,Pinot Gris,Wohlmuth,34.0513785,-118.2171632
+23779,Marc Kreydenweiss 2015 Moenchberg Grand Cru Pinot Gris (Alsace),France,94,33.00,Alsace,Pinot Gris,Marc Kreydenweiss,48.3883515,7.4155198
+17272,Charles Sparr 2013 Brand Grand Cru Pinot Gris (Alsace),France,94,24.00,Alsace,Pinot Gris,Charles Sparr,48.1345787,7.2931104
+21742,Domaine Barmès-Buecher 2014 Rosenberg Pinot Gris (Alsace),France,94,28.00,Alsace,Pinot Gris,Domaine Barmès-Buecher,48.0600089,7.2960709
+20794,Domaines Schlumberger 2014 Spiegel Grand Cru Pinot Gris (Alsace),France,94,30.00,Alsace,Pinot Gris,Domaines Schlumberger,47.912089,7.206304
+10101,Le Macchiole 2010 Paleo Rosso Cabernet Franc (Toscana),Italy,97,130.00,Tuscany,Cabernet Franc,Le Macchiole,43.2078087,10.6117048
+1753,Poggio al Tesoro 2005 Dedicato a Walter Cabernet Franc (Toscana),Italy,95,80.00,Tuscany,Cabernet Franc,Poggio al Tesoro,43.5797653,10.550356
+19504,Château de Parnay 2014 La Coulée du Méridien (Saumur-Champigny),France,94,120.00,Loire Valley,Cabernet Franc,Château de Parnay,47.2318747,0.0068661
+11196,Bodega Renacer 2011 Punto Final Gran Edición Limitada Cabernet Franc (Mendoza),Argentina,93,65.00,Mendoza Province,Cabernet Franc,Bodega Renacer,-33.0638243,-68.9059434
+15367,Château Margene 2012 Cask 7 Cabernet Franc (Paso Robles),US,93,96.00,California,Cabernet Franc,Château Margene,35.5166295,-120.4939378
+19682,El Enemigo 2014 Gran Enemigo Agrelo Single Vineyard Cabernet Franc (Mendoza),Argentina,93,120.00,Mendoza Province,Cabernet Franc,El Enemigo,-33.0442566,-68.7257544
+15808,Dumas Station 2012 Cabernet Franc (Walla Walla Valley (WA)),US,93,32.00,Washington,Cabernet Franc,Dumas Station,46.2872171,-118.0591663
+9100,Bernard Baudry 2010 Le Clos Guillot (Chinon),France,93,30.00,Loire Valley,Cabernet Franc,Bernard Baudry,47.160439,0.332553
+9560,Charles Joguet 2010 Clos de la Dioterie (Chinon),France,93,52.00,Loire Valley,Cabernet Franc,Charles Joguet,47.13188,0.3473664
+8526,Yannick Amirault 2010 La Petite Cave Cabernet Franc (Bourgueil),France,93,,Loire Valley,Cabernet Franc,Yannick Amirault,47.2917578,0.1689587
+22195,Malat 2014 Gottschelle Reserve Gruner Veltliner (Kremstal),Austria,95,36.00,Kremstal,Gruner Veltliner,Malat,37.163654,50.158798
+12863,Bründlmayer 2011 Loiser Berg Erste Lage Reserve Gruner Veltliner (Kamptal),Austria,95,,Kamptal,Gruner Veltliner,Bründlmayer,48.4735398,15.6625088
+19362,Malat 2014 Alte Reben Höhlgraben Reserve Gruner Veltliner (Kremstal),Austria,95,36.00,Kremstal,Gruner Veltliner,Malat,37.163654,50.158798
+21324,Emmerich Knoll 2014 Ried Kreutles Federspiel Gruner Veltliner (Wachau),Austria,95,31.00,Wachau,Gruner Veltliner,Emmerich Knoll,48.3883514,15.5422425
+21107,Proidl 2014 Senftenberger Ehrenfels Reserve Gruner Veltliner (Kremstal),Austria,95,,Kremstal,Gruner Veltliner,Proidl,48.4500453,15.5582872
+20989,Malat 2014 Das Beste vom Grünen Veltliner Reserve Gruner Veltliner (Kremstal),Austria,95,70.00,Kremstal,Gruner Veltliner,Malat,37.163654,50.158798
+18414,Eder 2013 Süssenberg Smaragd Gruner Veltliner (Wachau),Austria,94,27.00,Wachau,Gruner Veltliner,Eder,39.29972,-120.29139
+13579,Bründlmayer 2012 Lamm Erste Lage Reserve Gruner Veltliner (Kamptal),Austria,94,,Kamptal,Gruner Veltliner,Bründlmayer,48.4735398,15.6625088
+13399,Josef Jamek 2012 Ried Achleiten Smaragd Gruner Veltliner (Wachau),Austria,94,45.00,Wachau,Gruner Veltliner,Josef Jamek,48.387793,15.462085
+23302,Bründlmayer 2015 Käferberg Reserve Gruner Veltliner (Kamptal),Austria,94,70.00,Kamptal,Gruner Veltliner,Bründlmayer,48.4735398,15.6625088
+1542,Cartuxa 2005 Pêra-Manca White (Alentejo),Portugal,93,,Alentejo,Portuguese White,Cartuxa,38.5815101,-7.9192479
+14860,Casa Ferreirinha 2012 Antónia Adelaide Ferreira White (Douro),Portugal,93,95.00,Douro,Portuguese White,Casa Ferreirinha,41.1362618,-8.6223885
+7382,Niepoort 2009 Redoma Reserva White (Douro),Portugal,93,30.00,Douro,Portuguese White,Niepoort,41.1488169,-7.6452035
+6273,Alvaro Castro 2009 Quinta da Pellada Branco White (Dão),Portugal,93,65.00,DÃ£o,Portuguese White,Alvaro Castro,40.4701569,-7.6888516
+9571,Niepoort 2010 Redoma Branco White (Douro),Portugal,92,30.00,Douro,Portuguese White,Niepoort,41.1488169,-7.6452035
+20038,Poeira 2014 White (Douro),Portugal,92,,Douro,Portuguese White,Poeira,41.182113,-8.4405716
+18946,Adega Mãe 2013 Dory Reserva White (Lisboa),Portugal,92,20.00,Lisboa,Portuguese White,Adega Mãe,39.0488781,-9.2978467
+12466,Poeira 2011 Pó de Poeira White (Douro),Portugal,92,,Douro,Portuguese White,Poeira,41.182113,-8.4405716
+18148,Dão Sul 2013 Paço dos Cunhas de Santar Vinha Contador White (Dão),Portugal,92,37.00,DÃ£o,Portuguese White,Dao Sul,40.572334,-7.8941812
+8560,Herdade da Malhadinha Nova 2010 Malhadinha Branco White (Alentejano),Portugal,92,44.00,Alentejano,Portuguese White,Herdade da Malhadinha Nova,37.8305864,-7.9892187
+19698,Paul Jaboulet Aîné 2014 Domaine des Grands Amandiers (Condrieu),France,95,124.00,RhÃ´ne  Valley,Viognier,Paul Jaboulet Aîné,44.9961406,4.791616
+9047,E. Guigal 2010 La Doriane (Condrieu),France,94,140.00,RhÃ´ne  Valley,Viognier,E. Guigal,45.4881336,4.8067616
+10672,Charles Smith 2011 Lawrence Vineyard Viognier (Columbia Valley (WA)),US,94,40.00,Washington,Viognier,Charles Smith,37.7630895,-122.4578144
+19904,Cowhorn 2014 Reserve Estate Grown Viognier (Applegate Valley),US,94,50.00,Oregon,Viognier,Cowhorn,42.153753,-123.046164
+6255,Cowhorn 2009 Viognier (Applegate Valley),US,93,30.00,Oregon,Viognier,Cowhorn,42.153753,-123.046164
+7921,Abeja 2009 Viognier (Walla Walla Valley (WA)),US,93,28.00,Washington,Viognier,Abeja,37.5532213,-122.3074963
+8429,Paul Jaboulet Aîné 2010 Domaine de Grands Amandiers (Condrieu),France,93,100.00,RhÃ´ne  Valley,Viognier,Paul Jaboulet Aîné,44.9961406,4.791616
+9109,AntoLin Cellars 2010 Viognier (Yakima Valley),US,93,19.00,Washington,Viognier,AntoLin Cellars,46.6023117,-120.5080488
+14359,E. Guigal 2012 Condrieu,France,93,70.00,RhÃ´ne  Valley,Viognier,E. Guigal,45.4881336,4.8067616
+13799,Les Vins de Vienne 2012 La Chambée (Condrieu),France,93,85.00,RhÃ´ne  Valley,Viognier,Les Vins de Vienne,45.4320509,4.7527245
+14702,Domaine Zind-Humbrecht 2012 Clos Saint Urbain Rangen de Thann Grand Cru Gewurztraminer (Alsace),France,96,120.00,Alsace,Gewurztraminer,Domaine Zind-Humbrecht,48.0838286,7.295687
+18559,Domaine Zind-Humbrecht 2013 Clos Saint Urbain Rangen de Thann Grand Cru Gewurztraminer (Alsace),France,95,120.00,Alsace,Gewurztraminer,Domaine Zind-Humbrecht,48.0838286,7.295687
+15519,Domaine Zind-Humbrecht 2012 Goldert Grand Cru Gewurztraminer (Alsace),France,95,85.00,Alsace,Gewurztraminer,Domaine Zind-Humbrecht,48.0838286,7.295687
+10448,Gustave Lorentz 2011 Altenberg de Bergheim Grand Cru Gewurztraminer (Alsace),France,95,60.00,Alsace,Gewurztraminer,Gustave Lorentz,48.2040326,7.3578729
+22104,Domaine Barmès-Buecher 2014 Hengst Grand Cru Riesling (Alsace),France,94,48.00,Alsace,Gewurztraminer,Domaine Barmès-Buecher,48.0600089,7.2960709
+19839,Domaine Barmès-Buecher 2014 Steingrubler Grand Cru Gewurztraminer (Alsace),France,94,44.00,Alsace,Gewurztraminer,Domaine Barmès-Buecher,48.0600089,7.2960709
+19486,Domaine Weinbach 2014 Cuvée Laurence Gewurztraminer (Alsace),France,94,48.00,Alsace,Gewurztraminer,Domaine Weinbach,48.1362394,7.273184
+23970,Domaine Fernand Engel 2015 Altenberg de Bergheim Grand Cru Gewurztraminer (Alsace),France,94,36.00,Alsace,Gewurztraminer,Domaine Fernand Engel,48.2193617,7.3634327
+22494,Domaine Saint-Rémy 2015 Ehrhart Hengst Grand Cru Gewurztraminer (Alsace),France,94,32.00,Alsace,Gewurztraminer,Domaine Saint-Rémy,48.0585025,7.3036516
+17225,Domaine Pfister 2013 Engelberg Grand Cru Gewurztraminer (Alsace),France,94,45.00,Alsace,Gewurztraminer,Domaine Pfister,48.5853785,7.5085874
+22428,Domaines Dominique Piron 2015 Cà´te du Py (Morgon),France,94,25.00,Beaujolais,Gamay,Domaines Dominique Piron,46.1462051,4.6811859
+23474,Richard Rottiers 2015 Moulin-à-Vent,France,93,29.00,Beaujolais,Gamay,Richard Rottiers,46.1845393,4.739118
+20465,Domaine Fond Moiroux 2014 Moulin-à-Vent,France,93,20.00,Beaujolais,Gamay,Domaine Fond Moiroux,45.986391,4.6121476
+23984,Domaine Chignard 2015 Beauvernay (Julienas),France,93,25.00,Beaujolais,Gamay,Domaine Chignard,46.194457,4.714797
+17050,Domaine Labruyère 2013 Le Clos du Moulin-à-Vent (Moulin-à-Vent),France,93,80.00,Beaujolais,Gamay,Domaine Labruyère,46.2071823,4.7247301
+24013,Domaine de Bel Air 2015 Les Burdelines (Moulin-à-Vent),France,93,21.00,Beaujolais,Gamay,Domaine de Bel Air,47.9919899,-4.3544589
+22416,Domaine des Chers 2015 Vieilles Vignes (Saint-Amour),France,92,25.00,Beaujolais,Gamay,Domaine des Chers,46.2391125,4.7140217
+6795,Domaine du Comte Liger-Belair 2009 Les Rouchaux (Moulin-à-Vent),France,92,,Beaujolais,Gamay,Domaine du Comte Liger-Belair,47.1606957,4.9550717
+23285,Domaine les Fines Graves 2015 Moulin-à-Vent,France,92,23.00,Beaujolais,Gamay,Domaine les Fines Graves,44.0500269,4.8497908
+13033,Pascal Aufranc 2012 Vignes de 1939 (Chénas),France,92,35.00,Beaujolais,Gamay,Pascal Aufranc,46.2182067,4.6813724
+7901,Château la Tour Blanche 2009 Barrel sample (Sauternes),France,97,,Bordeaux,Bordeaux-style White Blend,Château la Tour Blanche,44.5425349,-0.3534112
+6920,Château Coutet 2009 Barrel sample (Barsac),France,97,,Bordeaux,Bordeaux-style White Blend,Château Coutet,44.5946859,-0.3282204
+20618,Clos Haut-Peyraguey 2014 Sauternes,France,97,55.00,Bordeaux,Bordeaux-style White Blend,Clos Haut-Peyraguey,44.5456965,-0.3396153
+11850, Château Pape Clément 2011 Barrel Sample (Pessac-Léognan),France,96,170.00,Bordeaux,Bordeaux-style White Blend,Château Pape Clément,44.8060417,-0.649637
+21200,Château Nairac 2014 Barsac,France,96,,Bordeaux,Bordeaux-style White Blend,Château Nairac,44.6115419,-0.3198997
+1925,Château Doisy-Daëne 2005 Barsac,France,95,50.00,Bordeaux,Bordeaux-style White Blend,Château Doisy-Daëne,44.5919057,-0.3320069
+7891,Château Lamothe Guignard 2009 Barrel sample (Sauternes),France,95,,Bordeaux,Bordeaux-style White Blend,Château Lamothe Guignard,44.574048,-0.3221252
+12724,Château Margaux 2011 Pavillon Blanc de Margaux Barrel Sample (Bordeaux Blanc),France,94,,Bordeaux,Bordeaux-style White Blend,Château Margaux,45.0444338,-0.6709453
+20771,Château d'Arche 2014 Sauternes,France,94,74.00,Bordeaux,Bordeaux-style White Blend,Château d'Arche,44.5375049,-0.3428372
+7206,Château Clos Haut-Peyraguey 2009 Barrel sample (Sauternes),France,94,,Bordeaux,Bordeaux-style White Blend,Château Clos Haut-Peyraguey,44.5456965,-0.3396153
+24477,Di Bruno 2016 Pinot Grigio (Santa Barbara County),US,92,24.00,California,Pinot Grigio,Di Bruno,34.6080638,-120.3525282
+560,Volpe Pasini 2001 Ipso Pinot Grigio (Friuli Venezia Giulia),Italy,91,18.00,Northeastern Italy,Pinot Grigio,Volpe Pasini,46.1129069,13.3975465
+22993,Elena Walch 2015 Castel Ringberg Pinot Grigio (Alto Adige),Italy,91,25.00,Northeastern Italy,Pinot Grigio,Elena Walch,46.3385258,11.2385953
+13523,Julia's Dazzle 2012 Rose Pinot Grigio (Horse Heaven Hills),US,90,15.00,Washington,Pinot Grigio,Julia's Dazzle,46.1332018,-119.8765901
+9094,Longoria 2010 Pinot Grigio (Santa Barbara County),US,90,19.00,California,Pinot Grigio,Longoria,38.006764,-122.1327937
+18112,Monte Volpe 2013 Pinot Grigio (Mendocino),US,90,15.00,California,Pinot Grigio,Monte Volpe,39.257119,-123.2376142
+1986,Benessere 2006 Pinot Grigio (Napa Valley),US,90,25.00,California,Pinot Grigio,Benessere,38.552377,-122.506042
+12498,Mario Schiopetto 2011 Pinot Grigio (Collio),Italy,90,30.00,Northeastern Italy,Pinot Grigio,Mario Schiopetto,45.9516756,13.5071621
+674,Livio Felluga 2002 Pinot Grigio (Friuli Venezia Giulia),Italy,90,23.00,Northeastern Italy,Pinot Grigio,Livio Felluga,45.9724379,13.4571194
+3743,Volpe Pasini 2007 Ipso Zuc di Volpe Pinot Grigio (Colli Orientali del Friuli),Italy,90,52.00,Northeastern Italy,Pinot Grigio,Volpe Pasini,46.1129069,13.3975465
+1005,Schramsberg 2004 J. Schram Rose Sparkling (North Coast),US,98,130.00,California,Sparkling Blend,Schramsberg,38.5494815,-122.5378838
+53,Iron Horse 1997 Joy! Blanc de Blancs Sparkling (Green Valley),US,97,179.00,California,Sparkling Blend,Iron Horse,37.7883185,-122.404011
+81,Schramsberg 1997 J. Schram Late Disgorged 150th Anniversary Release Sparkling (Napa-Monterey-Mendocino),US,96,200.00,California,Sparkling Blend,Schramsberg,38.5494815,-122.5378838
+4128,Schramsberg 2007 Reserve Sparkling (North Coast),US,96,120.00,California,Sparkling Blend,Schramsberg,38.5494815,-122.5378838
+6718,Schramsberg 2009 Tognetti Vineyard Brut Sparkling (Carneros),US,96,70.00,California,Sparkling Blend,Schramsberg,38.5494815,-122.5378838
+2887,Domaine Carneros 2006 Le Rêve Blanc de Blancs Sparkling (Carneros),US,95,95.00,California,Sparkling Blend,Domaine Carneros,38.25552,-122.3513889
+12811,Chapel Down 2011 Three Graces Sparkling (England),England,95,50.00,England,Sparkling Blend,Chapel Down,51.0410151,0.6983285
+4264,Roederer Estate 2007 Brut L'Ermitage Estate Bottled Sparkling (Anderson Valley),US,95,48.00,California,Sparkling Blend,Roederer Estate,39.108243,-123.5020026
+13647,Iron Horse 2012 Classic Vintage Brut Sparkling (Green Valley),US,95,44.00,California,Sparkling Blend,Iron Horse,37.7883185,-122.404011
+1399,Schramsberg 2005 Reserve Sparkling (North Coast),US,95,110.00,California,Sparkling Blend,Schramsberg,38.5494815,-122.5378838
+20045,Carlisle 2014 Palisades Vineyard Petite Sirah (Napa Valley),US,95,50.00,California,Petite Sirah,Carlisle,40.2010241,-77.2002745
+1402,C. Beck 2005 Petite Sirah (Napa Valley),US,93,38.00,California,Petite Sirah,C. Beck,38.505066,-122.465766
+19701,Maxville 2014 Petite Sirah (Napa Valley),US,93,67.00,California,Petite Sirah,Maxville,38.5580162,-122.3749041
+20326,Michael David 2014 Earthquake Petite Sirah (Lodi),US,93,26.00,California,Petite Sirah,Michael David,38.1157776,-121.3719307
+3636,Mauritson 2007 Madrone Spring Vineyard Petite Sirah (Rockpile),US,93,37.00,California,Petite Sirah,Mauritson,38.650488,-122.912031
+22152,Sobon Estate 2014 Rezerve Petite Sirah (Amador County),US,93,24.00,California,Petite Sirah,Sobon Estate,38.5323501,-120.7555755
+3377,Fortress 2007 Petite Sirah (Red Hills Lake County),US,93,35.00,California,Petite Sirah,Fortress,37.8296944,-122.5205428
+11462,High Valley Vineyard 2011 Petite Sirah (High Valley),US,93,30.00,California,Petite Sirah,High Valley Vineyard,39.0267305,-122.6633968
+886,Parducci 2004 True Grit Petite Sirah (Mendocino),US,93,25.00,California,Petite Sirah,Parducci,39.1997536,-123.2122641
+18436,Concannon 2013 Reserve Petite Sirah (Livermore Valley),US,92,42.00,California,Petite Sirah,Concannon,37.666199,-121.7397388
+14515,Standish 2012 Andelmonde Shiraz (Barossa Valley),Australia,97,95.00,South Australia,Shiraz,Standish,37.7983896,-122.400636
+1692,Standish 2005 The Standish Single Vineyard Shiraz (Barossa Valley),Australia,96,135.00,South Australia,Shiraz,Standish,37.7983896,-122.400636
+1137,Penfolds 2004 Grange Shiraz (South Australia),Australia,96,500.00,South Australia,Shiraz,Penfolds,37.934976,-122.058121
+7154,Kilikanoon 2009 R Reserve Shiraz (Barossa Valley),Australia,95,105.00,South Australia,Shiraz,Kilikanoon,-33.9201684,138.623133
+17616,Lambert 2013 The Family Tree Shiraz (Barossa Valley),Australia,95,65.00,South Australia,Shiraz,Lambert,37.2793964,-121.9381272
+8691,D'Arenberg 2010 Little Venice Single Vineyard Shiraz (McLaren Vale),Australia,95,85.00,South Australia,Shiraz,D'Arenberg,-35.1972164,138.5511368
+22170,Henschke 2014 Mount Edelstone Vineyard Shiraz (Eden Valley),Australia,95,200.00,South Australia,Shiraz,Henschke,52.5181632,13.6165184
+8388,Kilikanoon 2010 Oracle Shiraz (Clare Valley),Australia,94,70.00,South Australia,Shiraz,Kilikanoon,-33.9201684,138.623133
+8387,D'Arenberg 2010 The Garden of Extraordinary Delights Single Vineyard Shiraz (McLaren Vale),Australia,94,85.00,South Australia,Shiraz,D'Arenberg,-35.1972164,138.5511368
+14410,St Hallett 2012 Blackwell Shiraz (Barossa),Australia,94,39.00,South Australia,Shiraz,St Hallett,-34.5506077,138.9457155
+3631,Casanova di Neri 2007 Cerretalto (Brunello di Montalcino),Italy,100,270.00,Tuscany,Sangiovese Grosso,Casanova di Neri,43.0573613,11.5220115
+2932,Casanova di Neri 2006 Tenuta Nuova (Brunello di Montalcino),Italy,97,80.00,Tuscany,Sangiovese Grosso,Casanova di Neri,43.0573613,11.5220115
+3105,Mocali 2007 Riserva (Brunello di Montalcino),Italy,96,73.00,Tuscany,Sangiovese Grosso,Mocali,43.035343,11.449049
+1021,Le Chiuse 2004 Riserva (Brunello di Montalcino),Italy,95,120.00,Tuscany,Sangiovese Grosso,Le Chiuse,43.0686111,11.4886111
+2042,La Gerla 2006 Brunello di Montalcino,Italy,94,40.00,Tuscany,Sangiovese Grosso,La Gerla,43.0653778,11.4972677
+2237,Collosorbo 2006 Riserva (Brunello di Montalcino),Italy,94,75.00,Tuscany,Sangiovese Grosso,Collosorbo,42.9933732,11.4879631
+2499,San Polo 2006 Riserva (Brunello di Montalcino),Italy,94,90.00,Tuscany,Sangiovese Grosso,San Polo,45.4376436,12.3290729
+2526,Uccelliera 2006 Brunello di Montalcino,Italy,94,75.00,Tuscany,Sangiovese Grosso,Uccelliera,42.9929097,11.5147206
+4086,Fornacina 2007 Riserva (Brunello di Montalcino),Italy,94,92.00,Tuscany,Sangiovese Grosso,Fornacina,43.6670392,11.4356893
+2654,Villa Le Prata 2006 Selezione Massimo (Brunello di Montalcino),Italy,94,100.00,Tuscany,Sangiovese Grosso,Villa Le Prata,43.0394598,11.4698544
+8710,Vigne Marina Coppi 2010 I Grop Barbera (Colli Tortonesi),Italy,92,44.00,Piedmont,Barbera,Vigne Marina Coppi,44.795973,8.93119
+22648,Andis 2015 Barbera (Amador County),US,92,30.00,California,Barbera,Andis,38.1090504,-122.2379496
+19061,BorjÃƒÆ’Ã‚Â³n 2013 Complejo Barbera (Amador County),US,91,100.00,California,Barbera,Borjon,38.5267663,-120.815146
+2726,Araldica 2006 D'Annona (Barbera d'Asti Superiore),Italy,91,,Piedmont,Barbera,Araldica,44.7211309,8.3832214
+14078,BorjÃƒÆ’Ã‚Â³n 2012 Reserva Barbera (California),US,91,30.00,California,Barbera,Borjon,38.5267663,-120.815146
+21769,Tanner 2014 Estate Grown Barbera (Sierra Foothills),US,91,32.00,California,Barbera,Tanner,38.055009,-122.162341
+15440,Stark 2012 Damiano Vineyard Barbera (Sierra Foothills),US,91,34.00,California,Barbera,Stark,37.7690493,-122.404123
+3160,Rivetto 2007 Lirano Soprano (Barbera d'Alba),Italy,91,50.00,Piedmont,Barbera,Rivetto,44.6064182,8.0093979
+20346,Lava Cap 2014 Estate Bottled Barbera (El Dorado),US,90,25.00,California,Barbera,Lava Cap,38.7514727,-120.7405121
+17927,Paolo Scavino 2013 Affinato in Carati (Barbera d'Alba),Italy,90,23.00,Piedmont,Barbera,Paolo Scavino,44.6308604,7.965273
+609,Masi 2001 Mazzano (Amarone della Valpolicella Classico),Italy,94,198.00,Veneto,"Corvina, Rondinella, Molinara",Masi,37.8934304,-122.1151055
+1043,Cesari 2004 Bosan (Amarone della Valpolicella),Italy,94,106.00,Veneto,"Corvina, Rondinella, Molinara",Cesari,37.7886546,-122.4076944
+3545,Brunelli 2007 Campo Inferi Riserva (Amarone della Valpolicella Classico),Italy,93,60.00,Veneto,"Corvina, Rondinella, Molinara",Brunelli,37.7662651,-122.4020492
+430,Quintarelli 2000 Amarone della Valpolicella Classico,Italy,93,,Veneto,"Corvina, Rondinella, Molinara",Quintarelli,37.8749361,-122.2938006
+528,Bertani 2001 Amarone della Valpolicella Classico,Italy,93,90.00,Veneto,"Corvina, Rondinella, Molinara",Bertani,38.2494505,-122.0424755
+2585,Luigi Righetti 2006 G&G; (Amarone della Valpolicella Classico),Italy,93,160.00,Veneto,"Corvina, Rondinella, Molinara",Luigi Righetti,45.5221389,10.9079111
+1658,Corte Rugolin 2005 Monte Danieli (Amarone della Valpolicella Classico),Italy,93,62.00,Veneto,"Corvina, Rondinella, Molinara",Corte Rugolin,45.5223911,10.9076512
+3629,Dal Forno Romano 2007 Valpolicella Superiore,Italy,93,129.00,Veneto,"Corvina, Rondinella, Molinara",Dal Forno Romano,45.4946663,11.1736528
+3557,Brigaldara 2007 Case Vecie (Amarone della Valpolicella),Italy,93,80.00,Veneto,"Corvina, Rondinella, Molinara",Brigaldara,45.5212115,10.9160232
+4509,Montecariano 2007 Amarone della Valpolicella Classico,Italy,92,90.00,Veneto,"Corvina, Rondinella, Molinara",Montecariano,45.517347,10.882811
+17064,Torbreck 2013 Les Amis Grenache (Barossa Valley),Australia,95,185.00,South Australia,Grenache,Torbreck,-34.476955,138.950515
+10986,No Girls 2011 La Paciencia Vineyard Grenache (Walla Walla Valley (OR)),US,95,65.00,Oregon,Grenache,No Girls,46.036405,-118.781325
+8502,Maison Bleue 2010 La Montagnette Upland Vineyard Grenache (Snipes Mountain),US,94,35.00,Washington,Grenache,Maison Bleue,37.7610633,-122.4293025
+19234,La Marea 2014 Old Vine Besson Vineyard Grenache (Santa Clara Valley),US,94,38.00,California,Grenache,La Marea,37.7216418,-122.1596176
+20968,Koehler 2014 Grenache (Santa Ynez Valley),US,93,30.00,California,Grenache,Koehler,38.0945393,-122.5594458
+14461,Mattina Fiore 2012 Murmur Vineyard Grenache (Santa Maria Valley),US,93,60.00,California,Grenache,Mattina Fiore,34.966365,-120.6503164
+14041,Site 2012 Larner Vineyard Grenache (Ballard Canyon),US,93,50.00,California,Grenache,Site,38.0294618,-122.2666797
+2256,Jaffurs 2006 Whole Cluster Grenache (Santa Barbara County),US,93,42.00,California,Grenache,Jaffurs,34.4241667,-119.6836111
+21459,Stephen Ross 2014 Bee Sweet Vineyard Grenache (Edna Valley),US,93,36.00,California,Grenache,Stephen Ross,37.55726,-121.9797604
+16760,Big Basin 2013 Grizzly Grenache (Santa Cruz Mountains),US,92,55.00,California,Grenache,Big Basin,37.1716284,-122.2227571
+7693,Domaine Huët 2009 Clos du Bourg Première Trie Moelleux (Vouvray),France,97,69.00,Loire Valley,Chenin Blanc,Domaine Huët,47.4136563,0.8061969
+21158,Domaine du Petit Metris 2014 Grand Cru (Quarts de Chaume),France,94,65.00,Loire Valley,Chenin Blanc,Domaine du Petit Metris,47.3322121,-0.6571454
+8006,Domaine Huët 2010 Clos du Bourg Sec (Vouvray),France,93,30.00,Loire Valley,Chenin Blanc,Domaine Huet,47.4136563,0.8061969
+22833,Domaine Vincent Careme 2015 Le Peu Morier (Vouvray),France,93,40.00,Loire Valley,Chenin Blanc,Domaine Vincent Careme,47.4174072,0.8482117
+8770,Chateau la Variere 2010 Les Guerches (Quarts de Chaume),France,93,55.00,Loire Valley,Chenin Blanc,Chateau la Variere,47.3520619,-0.4591024
+9588,Domaine Huët 2010 Clos du Bourg Demi-Sec (Vouvray),France,93,35.00,Loire Valley,Chenin Blanc,Domaine Huet,47.4136563,0.8061969
+6821,Domaine des Baumard 2009 Clos du Papillon (SavenniÃƒÆ’Ã‚Â¨res),France,93,,Loire Valley,Chenin Blanc,Domaine des Baumard,47.3564111,-0.6525841
+18613,Domaine du Clos de l'Elu 2013 Ephata Chenin Blanc (Anjou),France,93,,Loire Valley,Chenin Blanc,Domaine du Clos de l'Elu,47.3248623,-0.6618348
+808,Domaine des Baumard 2003 Cuvee le Paon Chenin Blanc (Coteaux du Layon),France,93,,Loire Valley,Chenin Blanc,Domaine des Baumard,47.3564111,-0.6525841
+20277,Domaine Vincent Careme 2014 Le Peu Morier (Vouvray),France,92,40.00,Loire Valley,Chenin Blanc,Domaine Vincent Careme,47.4174072,0.8482117
+9141,CVNE 2010 Pagos de Vina Real (Rioja),Spain,95,110.00,Northern Spain,Tempranillo Blend,CVNE,42.5008177,-2.4999187
+923,Marques de Murrieta 2004 Dalmau (Rioja),Spain,95,165.00,Northern Spain,Tempranillo Blend,Marques de Murrieta,42.4579426,-2.3841667
+1172,Muga 2004 Prado Enea Gran Reserva (Rioja),Spain,94,66.00,Northern Spain,Tempranillo Blend,Muga,37.8305461,-122.2898594
+1432,Muga 2005 Torre Muga (Rioja),Spain,94,96.00,Northern Spain,Tempranillo Blend,Muga,37.8305461,-122.2898594
+1669,Finca Allende 2005 Aurus (Rioja),Spain,94,248.00,Northern Spain,Tempranillo Blend,Finca Allende,42.543473,-2.7875834
+9898,Marques de Riscal 2010 Baron de Chirel Reserva (Rioja),Spain,94,75.00,Northern Spain,Tempranillo Blend,Marques de Riscal,41.4239351,-4.9667095
+7324,Maetierra Dominum 2009 QP (Rioja),Spain,94,68.00,Northern Spain,Tempranillo Blend,Maetierra Dominum,42.3323641,-1.9893691
+10417,Telmo Rodríguez 2010 M2 de Matallana (Ribera del Duero),Spain,94,45.00,Northern Spain,Tempranillo Blend,Telmo Rodriguez,42.5475266,-2.5093067
+1665,Marques de Riscal 2005 Gran Reserva (Rioja),Spain,93,45.00,Northern Spain,Tempranillo Blend,Marques de Riscal,41.4239351,-4.9667095
+6864,Benjamin de Rothschild & Vega Sicilia SA 2009 MacÃƒÆ’Ã‚Â¡n (Rioja),Spain,93,90.00,Northern Spain,Tempranillo Blend,Benjamin de Rothschild & Vega Sicilia SA,42.576993,-2.662846
+12087,Santa Carolina 2011 Herencia Carmenère (Peumo),Chile,94,100.00,Peumo,Carmenere,Santa Carolina,38.1168824,-122.2587983
+4801,Santa Carolina 2008 Herencia Carmenère (Peumo),Chile,93,90.00,Peumo,Carmenere,Santa Carolina,38.1168824,-122.2587983
+19676,Alcance 2014 Gran Reserva Carmenère (Maule Valley),Chile,92,22.00,Maule Valley,Carmenere,Alcance,37.799585,-122.4028023
+20420,TerraNoble 2014 CA1 Andes Carmenère (Colchagua Valley),Chile,92,30.00,Colchagua Valley,Carmenere,TerraNoble,-34.9049559,-72.036939
+8038,Concha y Toro 2010 Terrunyo Entre Cordilleras Peumo Vineyard Block 27 Carmenère (Peumo),Chile,92,50.00,Peumo,Carmenere,Concha y Toro,37.934976,-122.058121
+17758,Montes 2013 Purple Angel Carmenère (Colchagua Valley),Chile,92,85.00,Colchagua Valley,Carmenere,Montes,38.12767,-122.2484432
+15711,Reininger 2012 Seven Hills Vineyard Carmenère (Walla Walla Valley (WA)),US,91,51.00,Washington,Carmenere,Reininger,46.0522459,-118.4602725
+4834,Concha y Toro 2008 Terrunyo Vineyard Selection Block 27 Unfiltered Carmenère (Peumo),Chile,91,38.00,Peumo,Carmenere,Concha y Toro,37.934976,-122.058121
+22008,Undurraga 2014 T.H. Terroir Hunter Carmenère (Peumo),Chile,91,25.00,Peumo,Carmenere,Undurraga,-33.6462832,-70.8859626
+13357,Yorkville Cellars 2012 Rennie Vineyard Organic Grapes Carmenère (Yorkville Highlands),US,90,36.00,California,Carmenere,Yorkville Cellars,38.906269,-123.231222
+5321,Louis Roederer 2008 Cristal Vintage Brut (Champagne),France,100,250.00,Champagne,Champagne Blend,Louis Roederer,37.9847984,-122.3131666
+262,Schramsberg 1999 J. Schram 50 Late Disgorged (North Coast),US,97,175.00,California,Champagne Blend,Schramsberg,38.5494815,-122.5378838
+919,Pol Roger 2004 Cuvee Sir Winston Churchill Brut (Champagne),France,97,305.00,Champagne,Champagne Blend,Pol Roger,37.934976,-122.058121
+1674,Louis Roederer 2005 Cristal Brut Rose (Champagne),France,96,595.00,Champagne,Champagne Blend,Louis Roederer,37.9847984,-122.3131666
+121,Ruinart 1998 Dom Ruinart Brut Rose (Champagne),France,95,275.00,Champagne,Champagne Blend,Ruinart,37.9847984,-122.3131666
+14940,Louis Roederer 2012 Vintage Brut (Champagne),France,95,80.00,Champagne,Champagne Blend,Louis Roederer,37.9847984,-122.3131666
+2508,Deutz 2006 Cuvee William Deutz (Champagne),France,95,140.00,Champagne,Champagne Blend,Deutz,37.7934742,-121.1984884
+2624,Pol Roger 2006 Vintage Brut (Champagne),France,95,114.00,Champagne,Champagne Blend,Pol Roger,37.934976,-122.058121
+8459,Louis Roederer 2010 Rose (Champagne),France,95,80.00,Champagne,Champagne Blend,Louis Roederer,37.9847984,-122.3131666
+2755,Deutz 2006 Amour de Deutz Brut Rose (Champagne),France,95,,Champagne,Champagne Blend,Deutz,37.7934742,-121.1984884
+22808,Eighty Four 2015 Albarino (Napa Valley),US,94,28.00,California,Albarino,Eighty Four,40.1826017,-80.1330264
+22310,Marimar Estate 2015 Don Miguel Vineyard Estate Grown and Bottled Albarino (Russian River Valley),US,93,35.00,California,Albarino,Marimar Estate,38.422216,-122.903572
+7311,Tangent 2009 Paragon Vineyard Albarino (Edna Valley),US,92,17.00,California,Albarino,Tangent,37.587968,-122.334955
+10739,Marimar Estate 2011 Don Miguel Vineyard Albarino (Russian River Valley),US,92,32.00,California,Albarino,Marimar Estate,38.422216,-122.903572
+9168,Marimar Estate 2010 Don Miguel Vineyard Albarino (Russian River Valley),US,92,32.00,California,Albarino,Marimar Estate,38.422216,-122.903572
+19700,Granbazan Etiqueta Ambar Albarino 2014 (Rias Baixas),Spain,91,22.00,Galicia,Albarino,Granbazan,42.5400626,-8.789813
+20156,Cambiata 2014 Albarino (Monterey),US,91,35.00,California,Albarino,Cambiata,36.0510692,-121.4778531
+21098,BÃƒÆ’Ã‚Â¡goa do Morgadío 2014 LÃƒÆ’Ã‚Â¡grima Albarino (Rías Baixas),Spain,91,22.00,Galicia,Albarino,Adegas Morgadío,42.148239,-8.2475855
+24070,Adegas Gran Vinum 2015 Esencia DiVina Albarino (Rías Baixas),Spain,91,23.00,Galicia,Albarino,Adegas Gran Vinum,42.539793,-8.824006
+18996,Longoria 2013 Clover Creek Vineyard Albarino (Santa Ynez Valley),US,91,23.00,California,Albarino,Longoria,38.006764,-122.1327937
+11912,Taylor Fladgate 2011 Vintage (Port),Portugal,97,116.00,Port,Port,Taylor Fladgate,41.1339521,-8.6142869
+5,Burmester 1952 Colheita Tawny (Port),Portugal,96,415.00,Port,Port,Burmester,41.1380756,-8.613093
+12378,Quinta do Vesuvio 2011 Vintage (Port),Portugal,96,,Port,Port,Quinta do Vesuvio,41.1414209,-7.2642209
+6,Messias 1963 Colheita Tawny (Port),Portugal,96,400.00,Port,Port,Messias,40.3758422,-8.4478726
+6200,Niepoort 2009 Vintage (Port),Portugal,95,90.00,Port,Port,Niepoort,41.1488169,-7.6452035
+12728,Quinta do Vallado 2011 Vintage (Port),Portugal,95,110.00,Port,Port,Quinta do Vallado,41.162005,-7.766782
+11918,Quinta do Passadouro 2011 Vintage (Port),Portugal,95,70.00,Port,Port,Quinta do Passadouro,41.235305,-7.5311052
+11465,Cálem 2011 Port,Portugal,95,,Port,Port,Cálem,41.1381447,-8.6109182
+6791,Fonseca 2009 Vintage (Port),Portugal,95,99.00,Port,Port,Fonseca,10.886123,-72.851515
+7345,Warre's 2009 Vintage (Port),Portugal,95,,Port,Port,Warre's,41.0700545,-8.5694239
+14596,Chateau La Nerthe 2012 Clos de Beauvenir White (Chateauneuf-du-Pape),France,95,169.00,Rhone Valley,Rhone-style White Blend,Chateau La Nerthe,44.049627,4.858188
+4326,Tardieu-Laurent 2007 White (Hermitage),France,94,82.00,Rhone Valley,Rhone-style White Blend,Tardieu-Laurent,43.764144,5.369288
+241,Paul Jaboulet Aine 1999 Chevalier de Sterimberg White (Hermitage),France,94,75.00,Rhone Valley,Rhone-style White Blend,Paul Jaboulet Aine,45.0329193,4.8643442
+13001,Le Vieux Pin 2012 Ava White (Okanagan Valley),Canada,93,35.00,British Columbia,Rhone-style White Blend,Le Vieux Pin,49.1591436,-119.5377864
+6518,Maison Nicolas Perrin 2009 White (Hermitage),France,93,79.00,Rhone Valley,Rhone-style White Blend,Maison Nicolas Perrin,44.9346843,4.8885799
+18311,Skinner 2013 Seven Generations White (El Dorado),US,93,26.00,California,Rhone-style White Blend,Skinner,37.8065375,-122.273497
+15417,E. Guigal 2012 White (Hermitage),France,92,75.00,Rhone Valley,Rhone-style White Blend,E. Guigal,45.4881336,4.8067616
+12688,Forgeron 2011 Ambiance Roussanne-Grenache Blanc-Marsanne-Viognier White (Columbia Valley (WA)),US,92,25.00,Washington,Rhone-style White Blend,Forgeron,48.9220787,-122.1477946
+3952,E. Guigal 2007 White (Hermitage),France,92,55.00,Rhone Valley,Rhone-style White Blend,E. Guigal,45.4881336,4.8067616
+22728,Cowhorn 2015 Spiral 36 White (Applegate Valley),US,92,28.00,Oregon,Rhone-style White Blend,Cowhorn,42.153753,-123.046164
+24006,Harper Voit 2015 Surlie Pinot Blanc (Willamette Valley),US,93,20.00,Oregon,Pinot Blanc,Harper Voit,45.2116617,-123.191881
+20720,Ponzi 2014 Pinot Blanc (Willamette Valley),US,92,20.00,Oregon,Pinot Blanc,Ponzi,37.8379279,-122.3007416
+15975,Chehalem 2012 Stoller Vineyards Pinot Blanc (Dundee Hills),US,92,29.00,Oregon,Pinot Blanc,Chehalem,45.3278962,-122.88871
+4632,Chassenay d'Arce 2008 Extra Brut Pinot Blanc (Champagne),France,91,80.00,Champagne,Pinot Blanc,Chassenay d'Arce,48.1063674,4.4457025
+4728,Kuentz-Bas 2008 Pinot Blanc (Alsace),France,91,17.00,Alsace,Pinot Blanc,Kuentz-Bas,48.0349643,7.2809207
+17479,Boeckel 2013 Blanc de Blancs Pinot Blanc (CrÃƒÆ’Ã‚Â©mant d'Alsace),France,91,20.00,Alsace,Pinot Blanc,Boeckel,48.3960993,7.4415794
+23408,Ron Rubin 2015 Dutton Ranch Shop Block Cool Climate Pinot Blanc (Green Valley),US,91,30.00,California,Pinot Blanc,Ron Rubin,38.4584095,-122.8821097
+24059,J Wilkes 2015 Pinot Blanc (Santa Maria Valley),US,91,18.00,California,Pinot Blanc,J Wilkes,34.412764,-119.6903388
+16328,David Hill 2013 Estate Pinot Blanc (Willamette Valley),US,91,22.00,Oregon,Pinot Blanc,David Hill,38.236718,-122.0859448
+24134,The Four Graces 2015 Pinot Blanc (Willamette Valley),US,91,24.00,Oregon,Pinot Blanc,The Four Graces,45.2857836,-123.0047975
+6548,Terredora Di Paolo 2009 Fatica Contadina (Taurasi),Italy,94,34.00,Southern Italy,Aglianico,Terredora Di Paolo,41.0266859,14.8824782
+3718,Mastroberardino 2007 Radici (Taurasi),Italy,94,60.00,Southern Italy,Aglianico,Mastroberardino,40.9207406,14.8170682
+6170,Contrade di Taurasi - Lonardo 2009 Vigne d'Alto (Taurasi),Italy,94,70.00,Southern Italy,Aglianico,Contrade di Taurasi - Lonardo,41.007938,14.957157
+911,Antonio Caggiano 2004 Vigna Macchia dei Goti (Taurasi),Italy,94,60.00,Southern Italy,Aglianico,Antonio Caggiano,41.0062298,14.9580942
+574,Mastroberardino 2001 Naturalis Historia Aglianico (Irpinia),Italy,93,65.00,Southern Italy,Aglianico,Mastroberardino,40.9207406,14.8170682
+3790,Mastroberardino 2007 Naturalis Historia (Taurasi),Italy,93,90.00,Southern Italy,Aglianico,Mastroberardino,40.9207406,14.8170682
+11625,Villa Matilde 2011 Tenute di Altavilla (Taurasi),Italy,92,,Southern Italy,Aglianico,Villa Matilde,15.5554139,-88.016129
+3484,Donnachiara 2007 Riserva (Taurasi),Italy,92,60.00,Southern Italy,Aglianico,Donnachiara,40.9556347,14.8781015
+1785,Villa Matilde 2005 Tenuta di Altavilla (Taurasi),Italy,92,,Southern Italy,Aglianico,Villa Matilde,15.5554139,-88.016129
+12864,Contrade di Taurasi - Lonardo 2011 Taurasi,Italy,92,,Southern Italy,Aglianico,Contrade di Taurasi - Lonardo,41.007938,14.957157
+23818,I Stefanini 2015 Monte di Fice (Soave Classico),Italy,93,20.00,Veneto,Garganega,I Stefanini,45.4506159,11.2985097
+1920,Cantina di Soave 2005 Rocca Sveva Mida (Recioto di Soave Classico),Italy,92,,Veneto,Garganega,Cantina di Soave,45.4139675,11.2476507
+17542,Gini 2013 Salvarenza Vecchie Vigne (Soave Classico),Italy,90,38.00,Veneto,Garganega,Gini,37.90873,-122.066555
+13067,Suavia 2012 Soave Classico,Italy,90,19.00,Veneto,Garganega,Suavia,45.45273,11.2549
+10290,Roccolo Grassi 2010 La Broia (Soave),Italy,90,20.00,Veneto,Garganega,Roccolo Grassi,45.4767965,11.1298138
+5809,Suavia 2008 Le Rive (Soave Classico),Italy,90,45.00,Veneto,Garganega,Suavia,45.45273,11.2549
+5814,Collis Veneto Wine Group 2008 Cantina di Colognola Acinatico 500ml (Recioto di Soave),Italy,89,,Veneto,Garganega,Collis Veneto Wine Group,45.4007956,11.2644485
+23903,Le Mandolare 2015 Il Roccolo (Soave Classico),Italy,89,,Veneto,Garganega,Le Mandolare,45.450067,11.276942
+3910,Suavia 2007 Le Rive (Soave Classico),Italy,89,44.00,Veneto,Garganega,Suavia,45.45273,11.2549
+5475,Fattori 2008 Motto Piane (Soave),Italy,89,18.00,Veneto,Garganega,Fattori,45.4406987,10.4077595
+8957,Di Majo Norante 2010 Apianae Moscato (Molise),Italy,93,,Southern Italy,Moscato,Di Majo Norante,41.9110781,15.099341
+9899,Planeta 2010 Passito di Noto,Italy,92,41.00,Sicily & Sardinia,Moscato,Planeta,36.7447476,15.0151456
+4164,EOS 2007 Tears of Dew Late Harvest Moscato (Paso Robles),US,91,22.00,California,Moscato,EOS,37.8096175,-122.2497596
+1356,Contratto 2005 De Miranda Moscato (Asti),Italy,90,90.00,Piedmont,Moscato,Contratto,47.0409082,8.5491574
+7118,Benanti 2009 Il Musico Moscato (Sicilia),Italy,90,26.00,Sicily & Sardinia,Moscato,Benanti,37.6159076,15.0989978
+8295,Maculan 2010 Dindarello Moscato (Veneto),Italy,90,19.00,Veneto,Moscato,Maculan,45.7083304,11.5622593
+15086,Quady 2012 Electra Moscato (California),US,90,14.00,California,Moscato,Quady,36.939921,-120.1069484
+24160,Scagliola 2015 Primo Bacio (Moscato d'Asti),Italy,90,20.00,Piedmont,Moscato,Scagliola,-34.5993437,-58.5881585
+3745,Villa Schinosa 2007 Moscato di Trani,Italy,90,,Southern Italy,Moscato,Villa Schinosa,41.246321,16.413113
+1476,Marenco 2005 Passri' di Scrapona Moscato (Strevi),Italy,89,60.00,Piedmont,Moscato,Marenco,37.279279,-121.9497772
+13434,Morgante 2012 Don Antonio Nero d'Avola (Sicilia),Italy,92,42.00,Sicily & Sardinia,Nero d'Avola,Morgante,-34.5926623,-58.3870951
+20531,Feudo Principi di Butera 2014 Deliella Nero d'Avola (Sicilia),Italy,92,90.00,Sicily & Sardinia,Nero d'Avola,Feudo Principi di Butera,37.2171809,14.0626847
+1249,Planeta 2005 Santa Cecilia Nero d'Avola (Sicilia),Italy,91,39.00,Sicily & Sardinia,Nero d'Avola,Planeta,36.7447476,15.0151456
+2462,Feudo Maccari 2006 Saia Nero d'Avola (Sicilia),Italy,90,30.00,Sicily & Sardinia,Nero d'Avola,Feudo Maccari,36.7686156,15.0752471
+11144,Spadafora 2011 Schietto Nero d'Avola (Sicilia),Italy,90,39.00,Sicily & Sardinia,Nero d'Avola,Spadafora,38.2227337,15.3793585
+1657,Benanti 2005 Il Drappo Nero d'Avola (Sicilia),Italy,90,40.00,Sicily & Sardinia,Nero d'Avola,Benanti,37.6159076,15.0989978
+5376,Benanti 2008 Il Drappo Nero d'Avola (Sicilia),Italy,90,40.00,Sicily & Sardinia,Nero d'Avola,Benanti,37.6159076,15.0989978
+20164,Tonnino 2014 Nero d'Avola (Terre Siciliane),Italy,89,22.00,Sicily & Sardinia,Nero d'Avola,Tonnino,37.9738582,12.9646346
+12848,Valle dell'Acate 2011 Il Moro Nero d'Avola (Sicilia),Italy,89,27.00,Sicily & Sardinia,Nero d'Avola,Valle dell'Acate,37.053829,14.522839
+10998,Morgante 2011 Don Antonio Nero d'Avola (Sicilia),Italy,89,42.00,Sicily & Sardinia,Nero d'Avola,Morgante,-34.5926623,-58.3870951
+18382,Mongarda 2013 Dosaggio Zero (Valdobbiadene Prosecco Superiore),Italy,93,24.00,Veneto,Glera,Mongarda,45.8972587,12.0876581
+22626,Nino Franco 2015 Nodi Brut (Valdobbiadene Prosecco Superiore),Italy,93,49.00,Veneto,Glera,Nino Franco,45.8973734,11.9908643
+15693,Nino Franco 2012 Grave di Stecca Brut Glera (Vino Spumante),Italy,93,49.00,Italy Other,Glera,Nino Franco,45.8973734,11.9908643
+24347,Nino Franco 2016 Vigneto della Riva di San Floriano Brut (Valdobbiadene Prosecco Superiore),Italy,93,29.00,Veneto,Glera,Nino Franco,45.8973734,11.9908643
+20103,Terre di San Venanzio Fortunato 2014 Demi Long (Valdobbiadene Prosecco Superiore),Italy,92,22.00,Veneto,Glera,Terre di San Venanzio Fortunato,45.88469,12.007391
+16938,Ca' dei Zago 2013 Dosaggio Zero (Valdobbiadene Prosecco Superiore),Italy,92,30.00,Veneto,Glera,Ca' dei Zago,45.9006033,12.0167902
+24286,Pizzolato 2016 Fields Brut (Prosecco),Italy,91,13.00,Veneto,Glera,Pizzolato,-34.4235614,-58.692323
+24714,Bisol 2016 Dry (Valdobbiadene Superiore di Cartizze),Italy,91,45.00,Veneto,Glera,Bisol,45.7503047,12.2238993
+21155,Ruggeri & C. 2014 Giustino B. Extra Dry (Valdobbiadene Prosecco Superiore),Italy,91,32.00,Veneto,Glera,Ruggeri & C.,45.8799883,12.002715
+17583,Marchiori 2013 Fondamentale Zulle Glera (Colli Trevigiani),Italy,91,15.00,Northeastern Italy,Glera,Marchiori,42.4514052,-82.8900677
+20622,Terroir Al Limit 2014 Les Manyes Garnacha (Priorat),Spain,95,290.00,Catalonia,Garnacha,Terroir Al Limit,41.2134073,0.8088812
+17688,Alto Moncayo 2013 Garnacha (Campo de Borja),Spain,92,50.00,Northern Spain,Garnacha,Alto Moncayo,41.842317,-1.5459435
+10011,Bodegas Ateca 2010 Atteca Old Vines Garnacha (Calatayud),Spain,91,16.00,Northern Spain,Garnacha,Bodegas Ateca,41.3245039,-1.7822347
+22645,Casa Castillo 2015 El Molar Garnacha (Jumilla),Spain,90,19.00,Levante,Garnacha,Casa Castillo,38.3940578,-122.3647611
+4137,Dinastía Vivanco 2007 Coleccion Vivanco Parcelas de Garnacha (Rioja),Spain,90,95.00,Northern Spain,Garnacha,Dinastía Vivanco,42.5394299,-2.7797597
+11803,Vivanco 2011 Coleccion (Rioja),Spain,89,80.00,Northern Spain,Garnacha,Vivanco,37.7963187,-122.402347
+22987,Algairen 2015 Garnacha (Cariñena),Spain,89,18.00,Northern Spain,Garnacha,Algairen,41.2908333,-1.32
+12423,Vivanco 2011 Coleccion (Rioja),Spain,89,80.00,Northern Spain,Garnacha,Vivanco,37.7963187,-122.402347
+8925,Viñedos y Bodegas Pablo 2010 Menguante Garnacha (Cariñena),Spain,88,16.00,Northern Spain,Garnacha,Viñedos y Bodegas Pablo,41.3978275,-1.3231066
+11402,Cruz de Piedra 2011 Garnacha (Calatayud),Spain,88,10.00,Northern Spain,Garnacha,Cruz de Piedra,-33.0315547,-68.7758279
+14445,Tamarack Cellars 2012 Dionysus Vineyard Petit Verdot (Columbia Valley (WA)),US,94,30.00,Washington,Petit Verdot,Tamarack Cellars,46.0913232,-118.2721807
+16696,Boeschen Vineyards 2013 Estate Petit Verdot (Napa Valley),US,94,95.00,California,Petit Verdot,Boeschen Vineyards,38.5383726,-122.4894583
+16802,B. Leighton 2013 Olsen Brothers Vineyard Petit Verdot (Yakima Valley),US,94,55.00,Washington,Petit Verdot,B. Leighton,46.0681849,-118.3370951
+6515,Sineann 2009 Champoux Vineyard Petit Verdot (Columbia Valley (WA)),US,94,48.00,Washington,Petit Verdot,Sineann,45.245624,-122.888048
+22234,Quinta da Romaneira 2014 Petit Verdot (Duriense),Portugal,92,30.00,Duriense,Petit Verdot,Quinta da Romaneira,41.216903,-7.4922091
+17143,Michael David 2013 Inkblot Petit Verdot (Lodi),US,92,35.00,California,Petit Verdot,Michael David,38.1157776,-121.3719307
+17233,Pelter 2013 Matar Petit Verdot (Jerusalem Hills),Israel,91,55.00,Jerusalem Hills,Petit Verdot,Pelter,28.7111969,-106.1332342
+948,Marques de Griñon 2004 Estate Bottled Petit Verdot (Dominio de Valdepusa),Spain,91,45.00,Central Spain,Petit Verdot,Marques de Griñon,33.2625364,-99.08544
+7133,Campolargo 2009 Diga? Tinto Petit Verdot (Bairrada),Portugal,91,58.00,Bairrada,Petit Verdot,Campolargo,40.4480802,-8.4879654
+14316,Thurston Wolfe 2012 Petit Verdot (Horse Heaven Hills),US,91,30.00,Washington,Petit Verdot,Thurston Wolfe,46.219493,-119.776163
+11095,La Clarine Farm 2011 Cedarville Mourvedre (Sierra Foothills),US,95,24.00,California,Mourvedre,La Clarine Farm,38.6375699,-120.65689
+19497,Efeste 2014 Emmy Stone Tree Vineyard Mourvedre (Wahluke Slope),US,93,49.00,Washington,Mourvedre,Efeste,47.7714517,-122.1457261
+6363,Rasa 2009 Vox Populi Mourvedre (Columbia Valley (WA)),US,93,45.00,Washington,Mourvedre,Rasa,37.7846954,-122.407845
+17490,Law 2013 Prima Mourvedre (Paso Robles),US,93,90.00,California,Mourvedre,Law,38.0954015,-122.228439
+5888,Mark Ryan 2008 Crazy Mary Mourvedre (Red Mountain),US,93,45.00,Washington,Mourvedre,Mark Ryan,37.8218033,-122.2595931
+13668,Terre Rouge 2012 Mourvedre (Sierra Foothills),US,93,28.00,California,Mourvedre,Terre Rouge,38.5203975,-120.8238467
+8039,La Bastide Blanche 2010 Cuvee Estagnol Mourvedre (Bandol),France,93,29.00,Provence,Mourvedre,La Bastide Blanche,43.2225069,5.7537764
+9135,La Bastide Blanche 2010 Mourvedre (Bandol),France,93,26.00,Provence,Mourvedre,La Bastide Blanche,43.2225069,5.7537764
+23877,Syncline 2015 Mourvedre (Horse Heaven Hills),US,93,35.00,Washington,Mourvedre,Syncline,45.718115,-121.3319
+5025,Kestrel 2008 Winemaker Select Mourvedre (Yakima Valley),US,92,40.00,Washington,Mourvedre,Kestrel,37.5210479,-122.2883273
