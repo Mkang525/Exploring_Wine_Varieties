@@ -1,5 +1,5 @@
 // create json for a function
-// const url = "/api/v1.0/wine";
+const url = "/api/v1.0/wine";
 // function to create x and y axis for the bubble charts
 function wineData(variety) {
     d3.json(url).then(function(data)   {
