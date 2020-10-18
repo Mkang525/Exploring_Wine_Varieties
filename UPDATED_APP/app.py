@@ -55,9 +55,8 @@ for table_name in inspector.get_table_names():
     print(table_name)
 
 # Save references to each table
-# Topten = Base.classes.topten
+Topten = Base.classes.topten
 Winecounts= Base.classes.winecounts
-# Winedesc = Base.classes.wine
 
 
 
@@ -95,6 +94,11 @@ def varieties():
 @app.route('/map.html')
 def map():
     return render_template("map.html")
+
+# table 
+@app.route('/table.html')
+def table():
+    return render_template("table.html")
 
 
 # json 

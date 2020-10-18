@@ -15,13 +15,13 @@ const table_url = "/api/v1.0/wine";
    // console.log(price);
     
    //Make points and prices integers
-    vinData.forEach(function(data) {
-      if (data.price==null){
-        data.price = 0
-      }
-      else{data.price = Number(data.price.replace(/[^0-9.-]+/g,""));}
-       data.points = +data.points;
-       });
+   //  vinData.forEach(function(data) {
+   //    if (data.price==null){
+   //      data.price = 0
+   //    }
+   //    else{data.price = Number(data.price.replace(/[^0-9.-]+/g,""));}
+   //     data.points = +data.points;
+   //     });
       
   // console.log(vinData);
 
