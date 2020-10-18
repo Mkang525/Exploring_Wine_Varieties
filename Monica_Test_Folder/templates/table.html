@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Wine Data</title>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../static/css/style.css">
+</head>
+
+<body style="background-color: darkred">
+
+  <!-- As a link -->
+  <nav class="navbar navbar-light bg-light">
+    <a class="navbar-brand" href="home.html">Wine For All Occassions</a>
+    <nav class="nav">
+      <a class="nav-link" href="#">Countries</a>
+      <a class="nav-link" href="index.html">Varieties</a>
+      <a class="nav-link" href="table.html">Information</a>
+    </nav>
+  </nav>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>Wine Information by Variety</h1>
+        <p>Use the dropdown menu to explore the different varities</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="well">
+          <h5>Choose a Variety</h5>
+          <select id="selDataset" onchange="optionChanged(value)"></select>
+        </div>
+        <div id="table-syle" class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Table</h3>
+          </div>
+          <div id="wine-statistics" class="panel-body"></div>
+        </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://unpkg.com/simple-statistics@7.3.0/dist/simple-statistics.min.js"></script>
+  <script src="../static/js/table.js"></script>
+  <script src="../static/js/dropdown.js"></script>
+  
+  
+</body>
+
+</html>
