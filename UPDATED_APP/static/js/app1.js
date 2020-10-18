@@ -2,7 +2,7 @@
 const url = "/api/v1.0/wine";
 // function to create x and y axis for the bubble charts
 function wineData(variety) {
-    d3.json(url, function(data)   {
+    d3.json(url).then(function(data)   {
         console.log(data);
         console.log(variety);
         // create filter for w function for the variety of the wines
@@ -79,17 +79,21 @@ var layout = {
 };
 
 Plotly.newPlot("bubble", data, layout);
-    });
+    })
 };
 
 // link to HTML optionChanged
-function optionChanged(variety) {
-    wineData(variety);
+function optionChanged1() {
+    console.log("inside bubbble");
+    var dropdownMenu = d3.select("#selDataset");
+    var selectedWine = dropdownMenu.property("value");
+    wineData(selectedWine);
 }
+//d3.selectAll("#selDataset").on("change", optionChanged1);
 // function for dropdown
 function init() {
     var dropdownMenu = d3.select("#selDataset");
-    d3.json(url, function(data)   {
+    d3.json(url).then(function(data)   {
         console.log(data);
         var wineVariety = [...new Set(data.map(function(p){ return p.variety}))]; 
         wineVariety.forEach(function(wineBottle) {
@@ -101,4 +105,5 @@ function init() {
 }
 
 init();
+
 
