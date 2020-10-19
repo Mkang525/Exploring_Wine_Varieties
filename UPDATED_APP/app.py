@@ -19,7 +19,7 @@ from sqlalchemy import create_engine, func
 from flask import Flask, jsonify
 import datetime as dt
 from flask import Flask, render_template, redirect
-from config import db_password, db_username
+from config import db_password, db_username, postgres_port
 
 from sqlalchemy import inspect
 
