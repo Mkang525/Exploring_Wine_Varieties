@@ -2,7 +2,7 @@
 Exploring Wine Varieties
 Braden, Kang, Limoli, Sodhi
 
-----------------------------------------------------------Summary:------------------------------------------------------------------
+-----------------------------------------Summary:-------------------------------------------------------
 
 Using a dataset[1] of reviews collected from the Wine Enthusiast[2] website, this website provides users the opportunity to explore more about the world of wine.
 
@@ -13,7 +13,7 @@ Another function pulls the data in JSON format into display a bubble chart to vi
 
 All of these pages rely on a dropdown menu to select and filter the visualizations by the 50 most popular varieties in the dataset. 
 
---------------------------------------------------------------Instructions:-----------------------------------------------------------
+-------------------------------------------------Instructions:-------------------------------------------
 1) To create the database: 
     - Create a database in postgres named wine_db_counts
     - Create the tables using the schema file in the schema folder. There should be two tables named "winecounts" and "topten", which correspond to     wine_data_updated_counts.csv and topten_50.csv respectively--in the CSVS folder. Import these into the tables in postgres.
