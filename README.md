@@ -15,7 +15,8 @@ All of these pages rely on a dropdown menu to select and filter the visualizatio
 ---------------------------------------------------------------------Instructions:-------------------------------------------------------------------
 1) To create the database: 
     - Create a database in postgres named wine_db_counts
-    - Create the tables using the file in the schema folder. There should be two tables named "winecounts" and "topten", which correspond to     wine_data_updated_counts.csv and topten_50.csv respectively--in the CSVS folder. Import these into the tables in postgres.
+    - Create the tables using the schema file in the schema folder. There should be two tables named "winecounts" and "topten", which correspond to     wine_data_updated_counts.csv and topten_50.csv respectively--in the CSVS folder. Import these into the tables in postgres.
+    - Run the query.sql to drop null values. 
     
 2) To run the flask app:
     - In the config.py folder, enter the postgres username, password, and port number. 
