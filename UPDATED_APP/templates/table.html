@@ -17,67 +17,32 @@
   <nav class="navbar navbar-light bg-light">
     <a class="navbar-brand" href="home.html">Wine For All Occassions</a>
     <nav class="nav">
-      <a class="nav-link" href="map.html">Map</a>
+      <a class="nav-link" href="#">Countries</a>
       <a class="nav-link" href="index.html">Varieties</a>
       <a class="nav-link" href="table.html">Information</a>
     </nav>
   </nav>
-
-  <!-- <div class="container">
-    <div class="row">
-      <div class="col-md-12 jumbotron text-center">
-        <h1>Wine Information by Variety</h1>
-        <p>Use the dropdown menu to explore the different varities</p>
-      </div>
-    </div>
-    <table class="table table-hover">
-      <thead>
-        <p></p>
-        <tr>
-          <th scope="col"></th>
-          <th scope="col">First</th>
-          <th scope="col">Last</th>
-          <th scope="col">Handle</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th scope="row">1</th>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
-        </tr>
-        <tr>
-          <th scope="row">2</th>
-          <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
-        </tr>
-        <tr>
-          <th scope="row">3</th>
-          <td colspan="2">Larry the Bird</td>
-          <td>@twitter</td>
-        </tr>
-      </tbody>
-    </table> -->
-    <div class="row">
-      <div class="col-md-2">
-        <div class="well">
-          <h5>Choose a Variety</h5>
-          <select id="selDataset" onchange="optionChanged(value)"></select>
+        <div class="form-group" style="padding: 25px; width: 1000px;">
+          <ul class="list-group" id = "filters">
+              <li class="filter list-group-item">
+                  <label for="variety">Choose a Variety</label>
+                  <select id="selDataset"></select>
+              </li>
+          </ul>    
         </div>
-        <div id="table-syle" class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">Table</h3>
+        <div class="panel" style="border: .5px solid black; padding: 25px; width: 1000px; height: 380px;">
+          <div class="panel-heading" style="background-color: black">
+            <h3 class="panel-title" style="color:whitesmoke">Description and Summary Statistics of Wine by Variety</h3>
           </div>
           <div id="wine-statistics" class="panel-body"></div>
         </div>
 
+
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://unpkg.com/simple-statistics@7.3.0/dist/simple-statistics.min.js"></script>
+  <script src="../static/js/data.js"></script>
   <script src="../static/js/table.js"></script>
-  <!-- <script src="../static/js/data.js"></script> -->
-  <script src="../static/js/dropdown.js"></script>
+ 
   
   
 </body>
