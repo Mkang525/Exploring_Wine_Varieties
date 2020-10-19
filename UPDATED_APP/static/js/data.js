@@ -137,7 +137,7 @@ var wine_descr_data =[
       {
         "Variety": "Sparkling Blend",
         "Type": "White",
-        "Descriptions": "Sparkling blend\" refers to sparkling wines that blend grapes of different varietals and vintages. Sparkling wine is only considered Champagne when grown in Champagne, France."
+        "Descriptions": "Sparkling blend refers to sparkling wines that blend grapes of different varietals and vintages. Sparkling wine is only considered Champagne when grown in Champagne, France."
       },
       {
         "Variety": "Petite Sirah",
