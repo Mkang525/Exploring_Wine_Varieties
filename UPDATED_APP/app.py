@@ -1,16 +1,6 @@
 # create a route to the index.html and sql database
 
 # dependencies
-# import os
-# import sqlalchemy
-# from sqlalchemy.ext.automap import automap_base
-# from sqlalchemy.orm import Session
-# from sqlalchemy import create_engine, func
-# from flask import Flask, jsonify
-# from flask import Flask, render_template, redirect
-# from flask_sqlalchemy import SQLAlchemy
-
-
 import os
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
@@ -24,22 +14,11 @@ from config import db_password, db_username, postgres_port
 from sqlalchemy import inspect
 
 
-
 #################################################
 # Database Setup
 #################################################
 # db_uri = f'postgresql://{db_username}:{db_password}@localhost:5432/topten_db'
 db_uri = f'postgresql://{db_username}:{db_password}@localhost:{postgres_port}/wine_db_counts'
-# try:
-#     from .config import db_username
-#     from .config import db_password
-#     db_uri = f'postgresql://{db_username}:{db_password}@localhost:5432/topten_db'
-# except ImportError:
-#     print("config not found!")
-#     db_uri = "sqlite:///topten_db.sqlite"
-
-# final_db_uri = os.environ.get('DATABASE_URL', '') or db_uri
-# print(final_db_uri)
 
 engine = create_engine(db_uri)
 print(engine)
@@ -57,10 +36,6 @@ for table_name in inspector.get_table_names():
 # Save references to each table
 Topten = Base.classes.topten
 Winecounts= Base.classes.winecounts
-
-
-
-
 
 #################################################
 # Flask Setup
@@ -150,9 +125,6 @@ def getWinesForMap():
         wines.append(winery)
 
     return jsonify(wines)
-
-
-
 
 # create the connection
 if __name__== '__main__':
