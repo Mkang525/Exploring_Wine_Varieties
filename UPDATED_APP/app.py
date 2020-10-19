@@ -29,7 +29,7 @@ from sqlalchemy import inspect
 # Database Setup
 #################################################
 # db_uri = f'postgresql://{db_username}:{db_password}@localhost:5432/topten_db'
-db_uri = f'postgresql://{db_username}:{db_password}@localhost:5433/wine_db_counts'
+db_uri = f'postgresql://{db_username}:{db_password}@localhost:{postgres_port}/wine_db_counts'
 # try:
 #     from .config import db_username
 #     from .config import db_password
