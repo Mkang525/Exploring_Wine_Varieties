@@ -31,4 +31,4 @@ Lat FLOAT,
 Lng FLOAT
 );
 
-SELECT * FROM topten
+SELECT * FROM topten;
