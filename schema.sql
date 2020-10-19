@@ -3,7 +3,7 @@ DROP TABLE IF EXISTS topten;
 
 --Create a table for wine reviews
 CREATE TABLE winecounts (
-ID SERIAL PRIMARY KEY,
+ID VARCHAR PRIMARY KEY,
 Title VARCHAR,
 Country VARCHAR,
 Points INTEGER,
