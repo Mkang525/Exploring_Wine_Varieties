@@ -2,7 +2,8 @@
 Exploring Wine Varieties
 Braden, Kang, Limoli, Sodhi
 
-----------------------------------------------------------Summary:----------------------------------------------------------------
+----------------------------------------------------------Summary:------------------------------------------------------------------
+
 Using a dataset[1] of reviews collected from the Wine Enthusiast[2] website, this website provides users the opportunity to explore more about the world of wine.
 
 The app.py file contains a flask app that connects to a server displaying pages of different aspects of the wine data to explore. 
