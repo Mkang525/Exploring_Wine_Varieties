@@ -1,3 +1,3 @@
 db_username = "postgres"
 # db_password = "Hyunjung25$"
-postgres_port = ""
+postgres_port = "5432"
