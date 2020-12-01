@@ -1,5 +1,4 @@
-# Project_2_Visualization
-Exploring Wine Varieties
+# Exploring Wine Varieties
 Braden, Kang, Limoli, Sodhi
 
 -----------------------------------------Summary:-------------------------------------------------------
